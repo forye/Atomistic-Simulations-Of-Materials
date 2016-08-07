@@ -1,0 +1,41 @@
+
+       ---  log from 20:24:40.836377---:
+  Minimum collision time:0.00753845465273
+
+       ---  log from 20:24:40.836725---:
+  Minimum indices:289291
+
+       ---  log from 20:24:40.847134---:
+  Minimum collision time:0.00753845465273
+
+       ---  log from 20:24:40.848812---:
+  Minimum indices:289291
+
+       ---  log from 20:24:40.858576---:
+  Minimum collision time:0.00753845465273
+
+       ---  log from 20:24:40.858788---:
+  Minimum indices:289291
+
+       ---  log from 20:24:40.871474---:
+  Minimum collision time:2.79769885903e-05
+
+       ---  log from 20:24:40.871663---:
+  Minimum indices:12
+
+       ---  log from 20:24:40.871774---:
+ , at col = 3 time matrix is wrong
+ not simetric![1, 2]
+
+       ---  log from 20:24:40.878008---:
+  Minimum collision time:0.00316671421997
+
+       ---  log from 20:24:40.878199---:
+  Minimum indices:01
+
+       ---  log from 20:24:40.878307---:
+ , at col = 4 time matrix is wrong
+ not simetric![0, 1]
+
+       ---  log from 20:24:40.882591---:
+  somthing is wrong. there's a change in the kinetic energy

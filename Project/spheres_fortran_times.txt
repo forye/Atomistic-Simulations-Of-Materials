@@ -1,0 +1,32 @@
+Running spheres test on        30001 collisions
+ volume ratios:    1.2000000476837158        1.7999999523162842        3.5999999046325684      .  numbers of spheres:    4.0000000000000000        32.000000000000000        108.00000000000000        256.00000000000000        500.00000000000000
+ done with nspheres:           4  spheres. volumes ratio:    1.2000000476837158
+ ncollisions:       30001  took:    2.3787939999999996      seconds
+ done with nspheres:          32  spheres. volumes ratio:    1.2000000476837158
+ ncollisions:       30001  took:    4.0124530000000007      seconds
+ done with nspheres:         108  spheres. volumes ratio:    1.2000000476837158
+ ncollisions:       30001  took:    9.5510799999999989      seconds
+ done with nspheres:         256  spheres. volumes ratio:    1.2000000476837158
+ ncollisions:       30001  took:    28.153621000000001      seconds
+ done with nspheres:         500  spheres. volumes ratio:    1.2000000476837158
+ ncollisions:       30001  took:    72.441602000000003      seconds
+ done with nspheres:           4  spheres. volumes ratio:    1.7999999523162842
+ ncollisions:       30001  took:    2.2495609999999999      seconds
+ done with nspheres:          32  spheres. volumes ratio:    1.7999999523162842
+ ncollisions:       30001  took:    3.9132069999999999      seconds
+ done with nspheres:         108  spheres. volumes ratio:    1.7999999523162842
+ ncollisions:       30001  took:    9.6101230000000015      seconds
+ done with nspheres:         256  spheres. volumes ratio:    1.7999999523162842
+ ncollisions:       30001  took:    27.273652999999996      seconds
+ done with nspheres:         500  spheres. volumes ratio:    1.7999999523162842
+ ncollisions:       30001  took:    71.317622000000000      seconds
+ done with nspheres:           4  spheres. volumes ratio:    3.5999999046325684
+ ncollisions:       30001  took:    2.3690489999999897      seconds
+ done with nspheres:          32  spheres. volumes ratio:    3.5999999046325684
+ ncollisions:       30001  took:    3.9457900000000166      seconds
+ done with nspheres:         108  spheres. volumes ratio:    3.5999999046325684
+ ncollisions:       30001  took:    9.6591339999999946      seconds
+ done with nspheres:         256  spheres. volumes ratio:    3.5999999046325684
+ ncollisions:       30001  took:    27.323331999999994      seconds
+ done with nspheres:         500  spheres. volumes ratio:    3.5999999046325684
+ ncollisions:       30001  took:    71.455186000000026      seconds

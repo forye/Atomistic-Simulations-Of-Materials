@@ -1,0 +1,9 @@
+
+       ---  log from 20:13:34.860987---:
+  Minimum collision time:0.00754366739121
+
+       ---  log from 20:13:34.861569---:
+  Minimum indices:380382
+
+       ---  log from 20:13:34.866531---:
+ c_time contaiins negative collision time at tcol=None nc=0

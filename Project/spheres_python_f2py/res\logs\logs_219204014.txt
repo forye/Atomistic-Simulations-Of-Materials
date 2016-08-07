@@ -1,0 +1,21 @@
+
+       ---  log from 20:40:15.806895---:
+  Minimum collision time:0.00747909830277
+
+       ---  log from 20:40:15.807061---:
+  Minimum indices:271265
+
+       ---  log from 20:40:15.849082---:
+  Minimum collision time:1.84972361228e-05
+
+       ---  log from 20:40:15.849574---:
+  Minimum indices:221122
+
+       ---  log from 20:40:15.856503---:
+  Minimum collision time:1.23763657465e-05
+
+       ---  log from 20:40:15.856669---:
+  Minimum indices:498496
+
+       ---  log from 20:40:15.868452---:
+  somthing is wrong. there's a change in the kinetic energy

@@ -1,0 +1,9 @@
+
+       ---  log from 16:52:47.899690---:
+  Minimum collision time:0.0
+
+       ---  log from 16:52:47.899842---:
+  Minimum indices:1629
+
+       ---  log from 16:52:47.905835---:
+ ERROR! bad collision time, at col = 0 t_col=0.0

@@ -1,0 +1,34 @@
+colissions 30000
+rv: 1.2
+Ns: 4
+Running time: 23.4440050125  [seconds]
+Ns: 32
+Running time: 32.6938040257  [seconds]
+Ns: 108
+Running time: 55.2314870358  [seconds]
+Ns: 256
+Running time: 54.6719648838  [seconds]
+Ns: 500
+Running time: 103.059656858  [seconds]
+rv: 1.8
+Ns: 4
+Running time: 23.1458530426  [seconds]
+Ns: 32
+Running time: 32.3645670414  [seconds]
+Ns: 108
+Running time: 54.926554203  [seconds]
+Ns: 256
+Running time: 54.8189430237  [seconds]
+Ns: 500
+Running time: 101.406563997  [seconds]
+rv: 3.6
+Ns: 4
+Running time: 22.9432971478  [seconds]
+Ns: 32
+Running time: 32.4476668835  [seconds]
+Ns: 108
+Running time: 55.1708619595  [seconds]
+Ns: 256
+Running time: 54.5032930374  [seconds]
+Ns: 500
+Running time: 104.006033897  [seconds]

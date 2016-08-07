@@ -1,0 +1,39 @@
+!a part of initialize_collision_table
+! given: LENGTH, infinity, nspheres, pos(1:nspheres), vel(1:nspheres), ctime (:,:)
+
+allocate(ctime(1:nspheres,1:nspheres))
+! Assume no collision in principle:
+do i = 1, nspheres-1
+   do j = i+1, nspheres
+      ctime(i,j) = infinity
+end do end do
+! Now compute possible collision times:
+do i = 1, nspheres-1
+   do j = i+1, nspheres
+      uij(1:3) = vel(1:3,i) - vel(1:3,j)
+         ! The next three loops take into account copies of j:
+        do jx = -1, 1
+            do jy = -1, 1
+                do jz = -1, 1
+                    translat = (/ jx*LENGTH, jy*LENGTH, jz*LENGTH /)
+                    pos_image(1:3) = pos(1:3,j) + translat(1:3)
+                    rij(1:3) = pos(1:3,i) - pos_image(1:3)
+                    !!! start here
+                    bij = dot_product(rij,uij)
+                    cij = dot_product(rij,rij)-sigma*sigma
+                    if (bij < 0.0) then
+                        uij2 = dot_product(uij, uij)
+                        discriminant = bij * bij - uij2 * cij
+                        if (discriminant > 0.0) then
+                            time = - ( bij + sqrt(discriminant)) / uij2
+                            if (time < ctime(i,j)) then
+                                ctime(i,j) = time
+                            end if
+                        end if
+                    end if
+                    
+                end do
+            end do
+        end do
+    end do
+end do

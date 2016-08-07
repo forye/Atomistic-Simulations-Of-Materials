@@ -1,0 +1,978 @@
+
+       ---  log from 22:14:10.510434---:
+ error! negative time!
+
+       ---  log from 22:14:10.511588---:
+ error! negative time!
+
+       ---  log from 22:14:10.533794---:
+ error! negative time!
+
+       ---  log from 22:14:10.535388---:
+ error! negative time!
+
+       ---  log from 22:14:10.569100---:
+ error! negative time!
+
+       ---  log from 22:14:10.603030---:
+ error! negative time!
+
+       ---  log from 22:14:10.606061---:
+ error! negative time!
+
+       ---  log from 22:14:10.672853---:
+ error! negative time!
+
+       ---  log from 22:14:10.673951---:
+ error! negative time!
+
+       ---  log from 22:14:10.678215---:
+ error! negative time!
+
+       ---  log from 22:14:10.687265---:
+ error! negative time!
+
+       ---  log from 22:14:10.704393---:
+ error! negative time!
+
+       ---  log from 22:14:10.721347---:
+ error! negative time!
+
+       ---  log from 22:14:10.724127---:
+ error! negative time!
+
+       ---  log from 22:14:10.730048---:
+ error! negative time!
+
+       ---  log from 22:14:10.737362---:
+ error! negative time!
+
+       ---  log from 22:14:10.832132---:
+ error! negative time!
+
+       ---  log from 22:14:10.837209---:
+ error! negative time!
+
+       ---  log from 22:14:10.848172---:
+ error! negative time!
+
+       ---  log from 22:14:10.858663---:
+ error! negative time!
+
+       ---  log from 22:14:10.865218---:
+ error! negative time!
+
+       ---  log from 22:14:10.867490---:
+ error! negative time!
+
+       ---  log from 22:14:10.954963---:
+ error! negative time!
+
+       ---  log from 22:14:10.985009---:
+ error! negative time!
+
+       ---  log from 22:14:10.987390---:
+ error! negative time!
+
+       ---  log from 22:14:11.029765---:
+ error! negative time!
+
+       ---  log from 22:14:11.033647---:
+ error! negative time!
+
+       ---  log from 22:14:11.053709---:
+ error! negative time!
+
+       ---  log from 22:14:11.058093---:
+ error! negative time!
+
+       ---  log from 22:14:11.064954---:
+ error! negative time!
+
+       ---  log from 22:14:11.068242---:
+ error! negative time!
+
+       ---  log from 22:14:11.115003---:
+ error! negative time!
+
+       ---  log from 22:14:11.115912---:
+ error! negative time!
+
+       ---  log from 22:14:11.120848---:
+ error! negative time!
+
+       ---  log from 22:14:11.150800---:
+ error! negative time!
+
+       ---  log from 22:14:11.151753---:
+ error! negative time!
+
+       ---  log from 22:14:11.177983---:
+ error! negative time!
+
+       ---  log from 22:14:11.193378---:
+ error! negative time!
+
+       ---  log from 22:14:11.208904---:
+ error! negative time!
+
+       ---  log from 22:14:11.249660---:
+ error! negative time!
+
+       ---  log from 22:14:11.308295---:
+ error! negative time!
+
+       ---  log from 22:14:11.311751---:
+ error! negative time!
+
+       ---  log from 22:14:11.334551---:
+ error! negative time!
+
+       ---  log from 22:14:11.335538---:
+ error! negative time!
+
+       ---  log from 22:14:11.343909---:
+ error! negative time!
+
+       ---  log from 22:14:11.403052---:
+ error! negative time!
+
+       ---  log from 22:14:11.406564---:
+ error! negative time!
+
+       ---  log from 22:14:11.439049---:
+ error! negative time!
+
+       ---  log from 22:14:11.450734---:
+ error! negative time!
+
+       ---  log from 22:14:11.514049---:
+ error! negative time!
+
+       ---  log from 22:14:11.537064---:
+ error! negative time!
+
+       ---  log from 22:14:11.538241---:
+ error! negative time!
+
+       ---  log from 22:14:11.591616---:
+ error! negative time!
+
+       ---  log from 22:14:11.598370---:
+ error! negative time!
+
+       ---  log from 22:14:11.608701---:
+ error! negative time!
+
+       ---  log from 22:14:11.629544---:
+ error! negative time!
+
+       ---  log from 22:14:11.710102---:
+ error! negative time!
+
+       ---  log from 22:14:11.711906---:
+ error! negative time!
+
+       ---  log from 22:14:11.786475---:
+ error! negative time!
+
+       ---  log from 22:14:11.787351---:
+ error! negative time!
+
+       ---  log from 22:14:11.840424---:
+ error! negative time!
+
+       ---  log from 22:14:11.841326---:
+ error! negative time!
+
+       ---  log from 22:14:11.886818---:
+ error! negative time!
+
+       ---  log from 22:14:11.910530---:
+ error! negative time!
+
+       ---  log from 22:14:11.922300---:
+ error! negative time!
+
+       ---  log from 22:14:11.972190---:
+ error! negative time!
+
+       ---  log from 22:14:11.973187---:
+ error! negative time!
+
+       ---  log from 22:14:11.976098---:
+ error! negative time!
+
+       ---  log from 22:14:11.989570---:
+ error! negative time!
+
+       ---  log from 22:14:11.992144---:
+ error! negative time!
+
+       ---  log from 22:14:12.016513---:
+ error! negative time!
+
+       ---  log from 22:14:12.066479---:
+ error! negative time!
+
+       ---  log from 22:14:12.070767---:
+ error! negative time!
+
+       ---  log from 22:14:12.096882---:
+ error! negative time!
+
+       ---  log from 22:14:12.099168---:
+ error! negative time!
+
+       ---  log from 22:14:12.161270---:
+ error! negative time!
+
+       ---  log from 22:14:12.207590---:
+ error! negative time!
+
+       ---  log from 22:14:12.215395---:
+ error! negative time!
+
+       ---  log from 22:14:12.228473---:
+ error! negative time!
+
+       ---  log from 22:14:12.229497---:
+ error! negative time!
+
+       ---  log from 22:14:12.232511---:
+ error! negative time!
+
+       ---  log from 22:14:12.236177---:
+ error! negative time!
+
+       ---  log from 22:14:12.237764---:
+ error! negative time!
+
+       ---  log from 22:14:12.239382---:
+ error! negative time!
+
+       ---  log from 22:14:12.292605---:
+ error! negative time!
+
+       ---  log from 22:14:12.302943---:
+ error! negative time!
+
+       ---  log from 22:14:12.304484---:
+ error! negative time!
+
+       ---  log from 22:14:12.306713---:
+ error! negative time!
+
+       ---  log from 22:14:12.327881---:
+ error! negative time!
+
+       ---  log from 22:14:12.434215---:
+ error! negative time!
+
+       ---  log from 22:14:12.441764---:
+ error! negative time!
+
+       ---  log from 22:14:12.472682---:
+ error! negative time!
+
+       ---  log from 22:14:12.473701---:
+ error! negative time!
+
+       ---  log from 22:14:12.474597---:
+ error! negative time!
+
+       ---  log from 22:14:12.536658---:
+ error! negative time!
+
+       ---  log from 22:14:12.552652---:
+ error! negative time!
+
+       ---  log from 22:14:12.555483---:
+ error! negative time!
+
+       ---  log from 22:14:12.622757---:
+ error! negative time!
+
+       ---  log from 22:14:12.623727---:
+ error! negative time!
+
+       ---  log from 22:14:12.636065---:
+ error! negative time!
+
+       ---  log from 22:14:12.664146---:
+ error! negative time!
+
+       ---  log from 22:14:12.665002---:
+ error! negative time!
+
+       ---  log from 22:14:12.705900---:
+ error! negative time!
+
+       ---  log from 22:14:12.788394---:
+ error! negative time!
+
+       ---  log from 22:14:12.799748---:
+ error! negative time!
+
+       ---  log from 22:14:12.864211---:
+ error! negative time!
+
+       ---  log from 22:14:12.875072---:
+ error! negative time!
+
+       ---  log from 22:14:12.882585---:
+ error! negative time!
+
+       ---  log from 22:14:12.885001---:
+ error! negative time!
+
+       ---  log from 22:14:12.886565---:
+ error! negative time!
+
+       ---  log from 22:14:12.945538---:
+ error! negative time!
+
+       ---  log from 22:14:12.946447---:
+ error! negative time!
+
+       ---  log from 22:14:13.039479---:
+ error! negative time!
+
+       ---  log from 22:14:13.152783---:
+ error! negative time!
+
+       ---  log from 22:14:13.157892---:
+ error! negative time!
+
+       ---  log from 22:14:13.160636---:
+ error! negative time!
+
+       ---  log from 22:14:13.165564---:
+ error! negative time!
+
+       ---  log from 22:14:13.167136---:
+ error! negative time!
+
+       ---  log from 22:14:13.169377---:
+ error! negative time!
+
+       ---  log from 22:14:13.199383---:
+ error! negative time!
+
+       ---  log from 22:14:13.215559---:
+ error! negative time!
+
+       ---  log from 22:14:13.216420---:
+ error! negative time!
+
+       ---  log from 22:14:13.219226---:
+ error! negative time!
+
+       ---  log from 22:14:13.220058---:
+ error! negative time!
+
+       ---  log from 22:14:13.220899---:
+ error! negative time!
+
+       ---  log from 22:14:13.223238---:
+ error! negative time!
+
+       ---  log from 22:14:13.236586---:
+ error! negative time!
+
+       ---  log from 22:14:13.244472---:
+ error! negative time!
+
+       ---  log from 22:14:13.307486---:
+ error! negative time!
+
+       ---  log from 22:14:13.368424---:
+ error! negative time!
+
+       ---  log from 22:14:13.369960---:
+ error! negative time!
+
+       ---  log from 22:14:13.414221---:
+ error! negative time!
+
+       ---  log from 22:14:13.423515---:
+ error! negative time!
+
+       ---  log from 22:14:13.462056---:
+ error! negative time!
+
+       ---  log from 22:14:13.476159---:
+ error! negative time!
+
+       ---  log from 22:14:13.482800---:
+ error! negative time!
+
+       ---  log from 22:14:13.484032---:
+ error! negative time!
+
+       ---  log from 22:14:13.505380---:
+ error! negative time!
+
+       ---  log from 22:14:13.512578---:
+ error! negative time!
+
+       ---  log from 22:14:13.513471---:
+ error! negative time!
+
+       ---  log from 22:14:13.556397---:
+ error! negative time!
+
+       ---  log from 22:14:13.572284---:
+ error! negative time!
+
+       ---  log from 22:14:13.603041---:
+ error! negative time!
+
+       ---  log from 22:14:13.603956---:
+ error! negative time!
+
+       ---  log from 22:14:13.608517---:
+ error! negative time!
+
+       ---  log from 22:14:13.609510---:
+ error! negative time!
+
+       ---  log from 22:14:13.622059---:
+ error! negative time!
+
+       ---  log from 22:14:13.667107---:
+ error! negative time!
+
+       ---  log from 22:14:13.668935---:
+ error! negative time!
+
+       ---  log from 22:14:13.671255---:
+ error! negative time!
+
+       ---  log from 22:14:13.731203---:
+ error! negative time!
+
+       ---  log from 22:14:13.760745---:
+ error! negative time!
+
+       ---  log from 22:14:13.775564---:
+ error! negative time!
+
+       ---  log from 22:14:13.777636---:
+ error! negative time!
+
+       ---  log from 22:14:13.781499---:
+ error! negative time!
+
+       ---  log from 22:14:13.797819---:
+ error! negative time!
+
+       ---  log from 22:14:13.809018---:
+ error! negative time!
+
+       ---  log from 22:14:13.809847---:
+ error! negative time!
+
+       ---  log from 22:14:13.827616---:
+ error! negative time!
+
+       ---  log from 22:14:13.828671---:
+ error! negative time!
+
+       ---  log from 22:14:13.834891---:
+ error! negative time!
+
+       ---  log from 22:14:13.869772---:
+ error! negative time!
+
+       ---  log from 22:14:13.873750---:
+ error! negative time!
+
+       ---  log from 22:14:13.876638---:
+ error! negative time!
+
+       ---  log from 22:14:13.914779---:
+ error! negative time!
+
+       ---  log from 22:14:13.924864---:
+ error! negative time!
+
+       ---  log from 22:14:13.927463---:
+ error! negative time!
+
+       ---  log from 22:14:13.983006---:
+ error! negative time!
+
+       ---  log from 22:14:14.001125---:
+ error! negative time!
+
+       ---  log from 22:14:14.011875---:
+ error! negative time!
+
+       ---  log from 22:14:14.029017---:
+ error! negative time!
+
+       ---  log from 22:14:14.037861---:
+ error! negative time!
+
+       ---  log from 22:14:14.039449---:
+ error! negative time!
+
+       ---  log from 22:14:14.041555---:
+ error! negative time!
+
+       ---  log from 22:14:14.056807---:
+ error! negative time!
+
+       ---  log from 22:14:14.067197---:
+ error! negative time!
+
+       ---  log from 22:14:14.103967---:
+ error! negative time!
+
+       ---  log from 22:14:14.108286---:
+ error! negative time!
+
+       ---  log from 22:14:14.110299---:
+ error! negative time!
+
+       ---  log from 22:14:14.152608---:
+ error! negative time!
+
+       ---  log from 22:14:14.163230---:
+ error! negative time!
+
+       ---  log from 22:14:14.224903---:
+ error! negative time!
+
+       ---  log from 22:14:14.227954---:
+ error! negative time!
+
+       ---  log from 22:14:14.252652---:
+ error! negative time!
+
+       ---  log from 22:14:14.264136---:
+ error! negative time!
+
+       ---  log from 22:14:14.277719---:
+ error! negative time!
+
+       ---  log from 22:14:14.280406---:
+ error! negative time!
+
+       ---  log from 22:14:14.288735---:
+ error! negative time!
+
+       ---  log from 22:14:14.300426---:
+ error! negative time!
+
+       ---  log from 22:14:14.301312---:
+ error! negative time!
+
+       ---  log from 22:14:14.305718---:
+ error! negative time!
+
+       ---  log from 22:14:14.354235---:
+ error! negative time!
+
+       ---  log from 22:14:14.355432---:
+ error! negative time!
+
+       ---  log from 22:14:14.356846---:
+ error! negative time!
+
+       ---  log from 22:14:14.361801---:
+ error! negative time!
+
+       ---  log from 22:14:14.368993---:
+ error! negative time!
+
+       ---  log from 22:14:14.371040---:
+ error! negative time!
+
+       ---  log from 22:14:14.373621---:
+ error! negative time!
+
+       ---  log from 22:14:14.415551---:
+ error! negative time!
+
+       ---  log from 22:14:14.416986---:
+ error! negative time!
+
+       ---  log from 22:14:14.419382---:
+ error! negative time!
+
+       ---  log from 22:14:14.450836---:
+ error! negative time!
+
+       ---  log from 22:14:14.470521---:
+ error! negative time!
+
+       ---  log from 22:14:14.472573---:
+ error! negative time!
+
+       ---  log from 22:14:14.474892---:
+ error! negative time!
+
+       ---  log from 22:14:14.482147---:
+ error! negative time!
+
+       ---  log from 22:14:14.508946---:
+ error! negative time!
+
+       ---  log from 22:14:14.546679---:
+ error! negative time!
+
+       ---  log from 22:14:14.553521---:
+ error! negative time!
+
+       ---  log from 22:14:14.555832---:
+ error! negative time!
+
+       ---  log from 22:14:14.557671---:
+ error! negative time!
+
+       ---  log from 22:14:14.613225---:
+ error! negative time!
+
+       ---  log from 22:14:14.623104---:
+ error! negative time!
+
+       ---  log from 22:14:14.630837---:
+ error! negative time!
+
+       ---  log from 22:14:14.663248---:
+ error! negative time!
+
+       ---  log from 22:14:14.666555---:
+ error! negative time!
+
+       ---  log from 22:14:14.669953---:
+ error! negative time!
+
+       ---  log from 22:14:14.693129---:
+ error! negative time!
+
+       ---  log from 22:14:14.711481---:
+ error! negative time!
+
+       ---  log from 22:14:14.712541---:
+ error! negative time!
+
+       ---  log from 22:14:14.713850---:
+ error! negative time!
+
+       ---  log from 22:14:14.748849---:
+ error! negative time!
+
+       ---  log from 22:14:14.750340---:
+ error! negative time!
+
+       ---  log from 22:14:14.761846---:
+ error! negative time!
+
+       ---  log from 22:14:14.788216---:
+ error! negative time!
+
+       ---  log from 22:14:14.804136---:
+ error! negative time!
+
+       ---  log from 22:14:14.811677---:
+ error! negative time!
+
+       ---  log from 22:14:14.833723---:
+ error! negative time!
+
+       ---  log from 22:14:14.862590---:
+ error! negative time!
+
+       ---  log from 22:14:14.867135---:
+ error! negative time!
+
+       ---  log from 22:14:14.892301---:
+ error! negative time!
+
+       ---  log from 22:14:14.904534---:
+ error! negative time!
+
+       ---  log from 22:14:14.942788---:
+ error! negative time!
+
+       ---  log from 22:14:14.945210---:
+ error! negative time!
+
+       ---  log from 22:14:14.949686---:
+ error! negative time!
+
+       ---  log from 22:14:15.001935---:
+ error! negative time!
+
+       ---  log from 22:14:15.021298---:
+ error! negative time!
+
+       ---  log from 22:14:15.078725---:
+ error! negative time!
+
+       ---  log from 22:14:15.080599---:
+ error! negative time!
+
+       ---  log from 22:14:15.157318---:
+ error! negative time!
+
+       ---  log from 22:14:15.163789---:
+ error! negative time!
+
+       ---  log from 22:14:15.215561---:
+ error! negative time!
+
+       ---  log from 22:14:15.225056---:
+ error! negative time!
+
+       ---  log from 22:14:15.225956---:
+ error! negative time!
+
+       ---  log from 22:14:15.229403---:
+ error! negative time!
+
+       ---  log from 22:14:15.268627---:
+ error! negative time!
+
+       ---  log from 22:14:15.269545---:
+ error! negative time!
+
+       ---  log from 22:14:15.270509---:
+ error! negative time!
+
+       ---  log from 22:14:15.307012---:
+ error! negative time!
+
+       ---  log from 22:14:15.308164---:
+ error! negative time!
+
+       ---  log from 22:14:15.369469---:
+ error! negative time!
+
+       ---  log from 22:14:15.409297---:
+ error! negative time!
+
+       ---  log from 22:14:15.413460---:
+ error! negative time!
+
+       ---  log from 22:14:15.415705---:
+ error! negative time!
+
+       ---  log from 22:14:15.416536---:
+ error! negative time!
+
+       ---  log from 22:14:15.417331---:
+ error! negative time!
+
+       ---  log from 22:14:15.433434---:
+ error! negative time!
+
+       ---  log from 22:14:15.447764---:
+ error! negative time!
+
+       ---  log from 22:14:15.449418---:
+ error! negative time!
+
+       ---  log from 22:14:15.456294---:
+ error! negative time!
+
+       ---  log from 22:14:15.458542---:
+ error! negative time!
+
+       ---  log from 22:14:15.473385---:
+ error! negative time!
+
+       ---  log from 22:14:15.474225---:
+ error! negative time!
+
+       ---  log from 22:14:15.502332---:
+ error! negative time!
+
+       ---  log from 22:14:15.503244---:
+ error! negative time!
+
+       ---  log from 22:14:15.504626---:
+ error! negative time!
+
+       ---  log from 22:14:15.512170---:
+ error! negative time!
+
+       ---  log from 22:14:15.557141---:
+ error! negative time!
+
+       ---  log from 22:14:15.564476---:
+ error! negative time!
+
+       ---  log from 22:14:15.570948---:
+ error! negative time!
+
+       ---  log from 22:14:15.573929---:
+ error! negative time!
+
+       ---  log from 22:14:15.585677---:
+ error! negative time!
+
+       ---  log from 22:14:15.588521---:
+ error! negative time!
+
+       ---  log from 22:14:15.606268---:
+ error! negative time!
+
+       ---  log from 22:14:15.610496---:
+ error! negative time!
+
+       ---  log from 22:14:15.629315---:
+ error! negative time!
+
+       ---  log from 22:14:15.643278---:
+ error! negative time!
+
+       ---  log from 22:14:15.648221---:
+ error! negative time!
+
+       ---  log from 22:14:15.664107---:
+ error! negative time!
+
+       ---  log from 22:14:15.665759---:
+ error! negative time!
+
+       ---  log from 22:14:15.686564---:
+ error! negative time!
+
+       ---  log from 22:14:15.688191---:
+ error! negative time!
+
+       ---  log from 22:14:15.689976---:
+ error! negative time!
+
+       ---  log from 22:14:15.695843---:
+ error! negative time!
+
+       ---  log from 22:14:15.697401---:
+ error! negative time!
+
+       ---  log from 22:14:15.720145---:
+ error! negative time!
+
+       ---  log from 22:14:15.734893---:
+ error! negative time!
+
+       ---  log from 22:14:15.760913---:
+ error! negative time!
+
+       ---  log from 22:14:15.762385---:
+ error! negative time!
+
+       ---  log from 22:14:15.771649---:
+ error! negative time!
+
+       ---  log from 22:14:15.774260---:
+ error! negative time!
+
+       ---  log from 22:14:15.793169---:
+ error! negative time!
+
+       ---  log from 22:14:15.796116---:
+ error! negative time!
+
+       ---  log from 22:14:15.803307---:
+ error! negative time!
+
+       ---  log from 22:14:15.806401---:
+ error! negative time!
+
+       ---  log from 22:14:15.816544---:
+ error! negative time!
+
+       ---  log from 22:14:15.817775---:
+ error! negative time!
+
+       ---  log from 22:14:15.842589---:
+ error! negative time!
+
+       ---  log from 22:14:15.846223---:
+ error! negative time!
+
+       ---  log from 22:14:15.856266---:
+ error! negative time!
+
+       ---  log from 22:14:15.876522---:
+ error! negative time!
+
+       ---  log from 22:14:15.878803---:
+ error! negative time!
+
+       ---  log from 22:14:15.892935---:
+ error! negative time!
+
+       ---  log from 22:14:15.897296---:
+ error! negative time!
+
+       ---  log from 22:14:15.899614---:
+ error! negative time!
+
+       ---  log from 22:14:15.914101---:
+ error! negative time!
+
+       ---  log from 22:14:15.915577---:
+ error! negative time!
+
+       ---  log from 22:14:15.931886---:
+ error! negative time!
+
+       ---  log from 22:14:15.934160---:
+ error! negative time!
+
+       ---  log from 22:14:15.983741---:
+ error! negative time!
+
+       ---  log from 22:14:15.992765---:
+ error! negative time!
+
+       ---  log from 22:14:16.003041---:
+ error! negative time!
+
+       ---  log from 22:14:16.005163---:
+ error! negative time!
+
+       ---  log from 22:14:16.019617---:
+ error! negative time!
+
+       ---  log from 22:14:16.035503---:
+ error! negative time!
+
+       ---  log from 22:14:16.037772---:
+ error! negative time!
+
+       ---  log from 22:14:16.039486---:
+ error! negative time!
+
+       ---  log from 22:14:16.049724---:
+ error! negative time!
+
+       ---  log from 22:14:16.053240---:
+ error! negative time!
+
+       ---  log from 22:14:16.054106---:
+ error! negative time!
+
+       ---  log from 22:14:16.060140---:
+ error! negative time!
+
+       ---  log from 22:14:16.061121---:
+ error! negative time!
+
+       ---  log from 22:14:16.062021---:
+ error! negative time!
+
+       ---  log from 22:14:16.063030---:
+ error! negative time!
+
+       ---  log from 22:14:16.063863---:
+ error! negative time!
+
+       ---  log from 22:14:16.064635---:
+ error! negative time!

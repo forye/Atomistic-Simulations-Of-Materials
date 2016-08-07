@@ -1,0 +1,6 @@
+
+       ---  log from 19:50:18.556942---:
+  Minimum collision time:0.00749323465046
+
+       ---  log from 19:50:18.557199---:
+  Minimum indices:345366

@@ -1,0 +1,19 @@
+
+       ---  log from 20:17:35.759671---:
+  Minimum collision time:0.00745377432082
+
+       ---  log from 20:17:35.759922---:
+  Minimum indices:363398
+
+       ---  log from 20:17:35.766051---:
+  Minimum collision time:0.00385803995706
+
+       ---  log from 20:17:35.766202---:
+  Minimum indices:12
+
+       ---  log from 20:17:35.766317---:
+ , at col = 1 time matrix is wrong
+ not simetric![1, 2]
+
+       ---  log from 20:17:35.767482---:
+ c_time contaiins negative collision time at tcol=-0.0185975739375 nc=1

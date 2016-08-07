@@ -1,0 +1,3678 @@
+
+       ---  log from 16:58:17.605842---:
+  Minimum collision time:0.00336844408608
+
+       ---  log from 16:58:17.606078---:
+  Minimum indices:49
+
+       ---  log from 16:58:17.608045---:
+  Minimum collision time:0.000168171818259
+
+       ---  log from 16:58:17.608172---:
+  Minimum indices:3031
+
+       ---  log from 16:58:17.609903---:
+  Minimum collision time:0.000149366023257
+
+       ---  log from 16:58:17.610062---:
+  Minimum indices:2123
+
+       ---  log from 16:58:17.611776---:
+  Minimum collision time:6.63969832099e-05
+
+       ---  log from 16:58:17.611919---:
+  Minimum indices:1827
+
+       ---  log from 16:58:17.613751---:
+  Minimum collision time:0.000576429102898
+
+       ---  log from 16:58:17.613922---:
+  Minimum indices:1924
+
+       ---  log from 16:58:17.617986---:
+  Minimum collision time:6.04543090518e-05
+
+       ---  log from 16:58:17.618447---:
+  Minimum indices:05
+
+       ---  log from 16:58:17.622640---:
+  Minimum collision time:0.000160576717421
+
+       ---  log from 16:58:17.622790---:
+  Minimum indices:220
+
+       ---  log from 16:58:17.624590---:
+  Minimum collision time:0.000156363527428
+
+       ---  log from 16:58:17.624754---:
+  Minimum indices:2526
+
+       ---  log from 16:58:17.627055---:
+  Minimum collision time:0.000162068937448
+
+       ---  log from 16:58:17.627272---:
+  Minimum indices:714
+
+       ---  log from 16:58:17.629244---:
+  Minimum collision time:9.42358038812e-05
+
+       ---  log from 16:58:17.629409---:
+  Minimum indices:819
+
+       ---  log from 16:58:17.631403---:
+  Minimum collision time:8.3475752255e-06
+
+       ---  log from 16:58:17.631569---:
+  Minimum indices:1017
+
+       ---  log from 16:58:17.633554---:
+  Minimum collision time:0.000339422279662
+
+       ---  log from 16:58:17.633716---:
+  Minimum indices:1421
+
+       ---  log from 16:58:17.635480---:
+  Minimum collision time:0.00046319980939
+
+       ---  log from 16:58:17.635770---:
+  Minimum indices:830
+
+       ---  log from 16:58:17.638171---:
+  Minimum collision time:0.00014191355473
+
+       ---  log from 16:58:17.638301---:
+  Minimum indices:14
+
+       ---  log from 16:58:17.640211---:
+  Minimum collision time:0.000159706412243
+
+       ---  log from 16:58:17.640356---:
+  Minimum indices:2029
+
+       ---  log from 16:58:17.642545---:
+  Minimum collision time:4.27157525058e-05
+
+       ---  log from 16:58:17.642721---:
+  Minimum indices:2531
+
+       ---  log from 16:58:17.645202---:
+  Minimum collision time:9.73371278783e-05
+
+       ---  log from 16:58:17.645386---:
+  Minimum indices:1015
+
+       ---  log from 16:58:17.647430---:
+  Minimum collision time:0.000546322374576
+
+       ---  log from 16:58:17.647573---:
+  Minimum indices:022
+
+       ---  log from 16:58:17.649812---:
+  Minimum collision time:0.000104138288147
+
+       ---  log from 16:58:17.649936---:
+  Minimum indices:67
+
+       ---  log from 16:58:17.651774---:
+  Minimum collision time:0.000150213103543
+
+       ---  log from 16:58:17.651956---:
+  Minimum indices:2830
+
+       ---  log from 16:58:17.653901---:
+  Minimum collision time:9.0197867608e-06
+
+       ---  log from 16:58:17.654093---:
+  Minimum indices:46
+
+       ---  log from 16:58:17.656055---:
+  Minimum collision time:0.000375046227848
+
+       ---  log from 16:58:17.656214---:
+  Minimum indices:1820
+
+       ---  log from 16:58:17.658074---:
+  Minimum collision time:0.000156316312394
+
+       ---  log from 16:58:17.658217---:
+  Minimum indices:811
+
+       ---  log from 16:58:17.660949---:
+  Minimum collision time:8.75761253516e-05
+
+       ---  log from 16:58:17.661112---:
+  Minimum indices:1223
+
+       ---  log from 16:58:17.663049---:
+  Minimum collision time:8.77336467661e-05
+
+       ---  log from 16:58:17.663247---:
+  Minimum indices:1330
+
+       ---  log from 16:58:17.665062---:
+  Minimum collision time:2.75518420623e-05
+
+       ---  log from 16:58:17.665235---:
+  Minimum indices:316
+
+       ---  log from 16:58:17.667018---:
+  Minimum collision time:7.23764478806e-06
+
+       ---  log from 16:58:17.667213---:
+  Minimum indices:321
+
+       ---  log from 16:58:17.669049---:
+  Minimum collision time:0.000104395558469
+
+       ---  log from 16:58:17.669245---:
+  Minimum indices:1114
+
+       ---  log from 16:58:17.671012---:
+  Minimum collision time:0.000339650556289
+
+       ---  log from 16:58:17.671114---:
+  Minimum indices:58
+
+       ---  log from 16:58:17.672678---:
+  Minimum collision time:5.20715588707e-05
+
+       ---  log from 16:58:17.672830---:
+  Minimum indices:1327
+
+       ---  log from 16:58:17.674653---:
+  Minimum collision time:0.000103795327024
+
+       ---  log from 16:58:17.674863---:
+  Minimum indices:422
+
+       ---  log from 16:58:17.676958---:
+  Minimum collision time:0.000205955329384
+
+       ---  log from 16:58:17.677079---:
+  Minimum indices:1617
+
+       ---  log from 16:58:17.678881---:
+  Minimum collision time:0.000171550398047
+
+       ---  log from 16:58:17.679063---:
+  Minimum indices:1619
+
+       ---  log from 16:58:17.680794---:
+  Minimum collision time:0.000544677640714
+
+       ---  log from 16:58:17.680929---:
+  Minimum indices:830
+
+       ---  log from 16:58:17.682590---:
+  Minimum collision time:0.000244969842313
+
+       ---  log from 16:58:17.682754---:
+  Minimum indices:47
+
+       ---  log from 16:58:17.684668---:
+  Minimum collision time:0.000192375048948
+
+       ---  log from 16:58:17.684833---:
+  Minimum indices:2326
+
+       ---  log from 16:58:17.686720---:
+  Minimum collision time:4.54506543376e-05
+
+       ---  log from 16:58:17.686920---:
+  Minimum indices:1621
+
+       ---  log from 16:58:17.688904---:
+  Minimum collision time:0.000184607232297
+
+       ---  log from 16:58:17.689066---:
+  Minimum indices:2223
+
+       ---  log from 16:58:17.690830---:
+  Minimum collision time:5.47235828429e-05
+
+       ---  log from 16:58:17.690932---:
+  Minimum indices:710
+
+       ---  log from 16:58:17.692532---:
+  Minimum collision time:0.000191693088747
+
+       ---  log from 16:58:17.692744---:
+  Minimum indices:1024
+
+       ---  log from 16:58:17.694684---:
+  Minimum collision time:0.000446830489326
+
+       ---  log from 16:58:17.694826---:
+  Minimum indices:2326
+
+       ---  log from 16:58:17.696595---:
+  Minimum collision time:0.000191053583482
+
+       ---  log from 16:58:17.696757---:
+  Minimum indices:1627
+
+       ---  log from 16:58:17.698438---:
+  Minimum collision time:0.000116951420405
+
+       ---  log from 16:58:17.698662---:
+  Minimum indices:013
+
+       ---  log from 16:58:17.700506---:
+  Minimum collision time:7.72801500977e-05
+
+       ---  log from 16:58:17.700648---:
+  Minimum indices:01
+
+       ---  log from 16:58:17.702559---:
+  Minimum collision time:3.81640823942e-05
+
+       ---  log from 16:58:17.702728---:
+  Minimum indices:013
+
+       ---  log from 16:58:17.704610---:
+  Minimum collision time:8.5454182918e-05
+
+       ---  log from 16:58:17.704759---:
+  Minimum indices:1621
+
+       ---  log from 16:58:17.706625---:
+  Minimum collision time:0.000208857537088
+
+       ---  log from 16:58:17.706841---:
+  Minimum indices:89
+
+       ---  log from 16:58:17.708545---:
+  Minimum collision time:4.66542615939e-05
+
+       ---  log from 16:58:17.708690---:
+  Minimum indices:418
+
+       ---  log from 16:58:17.710731---:
+  Minimum collision time:0.000139117958097
+
+       ---  log from 16:58:17.710897---:
+  Minimum indices:512
+
+       ---  log from 16:58:17.712735---:
+  Minimum collision time:0.000162576093562
+
+       ---  log from 16:58:17.712840---:
+  Minimum indices:1622
+
+       ---  log from 16:58:17.714443---:
+  Minimum collision time:0.000106077195721
+
+       ---  log from 16:58:17.714604---:
+  Minimum indices:1529
+
+       ---  log from 16:58:17.717278---:
+  Minimum collision time:0.000132186048513
+
+       ---  log from 16:58:17.717490---:
+  Minimum indices:29
+
+       ---  log from 16:58:17.719435---:
+  Minimum collision time:0.000190024197701
+
+       ---  log from 16:58:17.719592---:
+  Minimum indices:514
+
+       ---  log from 16:58:17.721553---:
+  Minimum collision time:4.91657920327e-05
+
+       ---  log from 16:58:17.721664---:
+  Minimum indices:47
+
+       ---  log from 16:58:17.723408---:
+  Minimum collision time:3.5521998548e-05
+
+       ---  log from 16:58:17.723541---:
+  Minimum indices:1930
+
+       ---  log from 16:58:17.725749---:
+  Minimum collision time:0.000196097545333
+
+       ---  log from 16:58:17.727985---:
+  Minimum indices:2021
+
+       ---  log from 16:58:17.735919---:
+  Minimum collision time:0.000385811066272
+
+       ---  log from 16:58:17.736106---:
+  Minimum indices:1129
+
+       ---  log from 16:58:17.738462---:
+  Minimum collision time:0.000426193168576
+
+       ---  log from 16:58:17.738730---:
+  Minimum indices:819
+
+       ---  log from 16:58:17.743292---:
+  Minimum collision time:0.00019661302041
+
+       ---  log from 16:58:17.743709---:
+  Minimum indices:211
+
+       ---  log from 16:58:17.745813---:
+  Minimum collision time:1.44698597707e-05
+
+       ---  log from 16:58:17.745999---:
+  Minimum indices:931
+
+       ---  log from 16:58:17.747760---:
+  Minimum collision time:0.000109748179032
+
+       ---  log from 16:58:17.747868---:
+  Minimum indices:119
+
+       ---  log from 16:58:17.749622---:
+  Minimum collision time:0.000388668745441
+
+       ---  log from 16:58:17.749774---:
+  Minimum indices:018
+
+       ---  log from 16:58:17.751612---:
+  Minimum collision time:0.000158273670273
+
+       ---  log from 16:58:17.751758---:
+  Minimum indices:1922
+
+       ---  log from 16:58:17.753717---:
+  Minimum collision time:2.8364397497e-05
+
+       ---  log from 16:58:17.753978---:
+  Minimum indices:1823
+
+       ---  log from 16:58:17.757406---:
+  Minimum collision time:4.39858072356e-05
+
+       ---  log from 16:58:17.757575---:
+  Minimum indices:24
+
+       ---  log from 16:58:17.759608---:
+  Minimum collision time:8.99763073924e-06
+
+       ---  log from 16:58:17.759773---:
+  Minimum indices:35
+
+       ---  log from 16:58:17.761730---:
+  Minimum collision time:0.00094135596807
+
+       ---  log from 16:58:17.761881---:
+  Minimum indices:225
+
+       ---  log from 16:58:17.763587---:
+  Minimum collision time:2.96009267022e-05
+
+       ---  log from 16:58:17.763732---:
+  Minimum indices:611
+
+       ---  log from 16:58:17.765398---:
+  Minimum collision time:0.00027172973322
+
+       ---  log from 16:58:17.765566---:
+  Minimum indices:57
+
+       ---  log from 16:58:17.767372---:
+  Minimum collision time:0.00013567021861
+
+       ---  log from 16:58:17.767534---:
+  Minimum indices:2427
+
+       ---  log from 16:58:17.769273---:
+  Minimum collision time:2.92691065601e-05
+
+       ---  log from 16:58:17.769446---:
+  Minimum indices:1926
+
+       ---  log from 16:58:17.772797---:
+  Minimum collision time:0.000172149568189
+
+       ---  log from 16:58:17.772986---:
+  Minimum indices:220
+
+       ---  log from 16:58:17.774755---:
+  Minimum collision time:0.000222993503868
+
+       ---  log from 16:58:17.774905---:
+  Minimum indices:2730
+
+       ---  log from 16:58:17.776874---:
+  Minimum collision time:0.00025551421513
+
+       ---  log from 16:58:17.777007---:
+  Minimum indices:110
+
+       ---  log from 16:58:17.778873---:
+  Minimum collision time:0.000406737373679
+
+       ---  log from 16:58:17.779003---:
+  Minimum indices:1322
+
+       ---  log from 16:58:17.780776---:
+  Minimum collision time:0.000590309459757
+
+       ---  log from 16:58:17.780921---:
+  Minimum indices:616
+
+       ---  log from 16:58:17.782757---:
+  Minimum collision time:6.73332302047e-05
+
+       ---  log from 16:58:17.782942---:
+  Minimum indices:12
+
+       ---  log from 16:58:17.784811---:
+  Minimum collision time:0.000108383339547
+
+       ---  log from 16:58:17.784960---:
+  Minimum indices:1116
+
+       ---  log from 16:58:17.787060---:
+  Minimum collision time:0.000111759053855
+
+       ---  log from 16:58:17.787235---:
+  Minimum indices:1331
+
+       ---  log from 16:58:17.789271---:
+  Minimum collision time:7.37245093726e-06
+
+       ---  log from 16:58:17.789448---:
+  Minimum indices:119
+
+       ---  log from 16:58:17.791197---:
+  Minimum collision time:8.95936057762e-05
+
+       ---  log from 16:58:17.791368---:
+  Minimum indices:1125
+
+       ---  log from 16:58:17.793165---:
+  Minimum collision time:0.000378386045851
+
+       ---  log from 16:58:17.793308---:
+  Minimum indices:1825
+
+       ---  log from 16:58:17.795012---:
+  Minimum collision time:0.000288339168975
+
+       ---  log from 16:58:17.795158---:
+  Minimum indices:217
+
+       ---  log from 16:58:17.796708---:
+  Minimum collision time:3.03103940817e-05
+
+       ---  log from 16:58:17.796813---:
+  Minimum indices:1819
+
+       ---  log from 16:58:17.798341---:
+  Minimum collision time:0.000666125379168
+
+       ---  log from 16:58:17.798441---:
+  Minimum indices:827
+
+       ---  log from 16:58:17.800192---:
+  Minimum collision time:0.000189026502194
+
+       ---  log from 16:58:17.800299---:
+  Minimum indices:927
+
+       ---  log from 16:58:17.801835---:
+  Minimum collision time:0.00016480756923
+
+       ---  log from 16:58:17.801927---:
+  Minimum indices:422
+
+       ---  log from 16:58:17.803551---:
+  Minimum collision time:5.30714287507e-05
+
+       ---  log from 16:58:17.803692---:
+  Minimum indices:2123
+
+       ---  log from 16:58:17.805556---:
+  Minimum collision time:1.33701769903e-05
+
+       ---  log from 16:58:17.805713---:
+  Minimum indices:910
+
+       ---  log from 16:58:17.807929---:
+  Minimum collision time:0.000682872120612
+
+       ---  log from 16:58:17.808076---:
+  Minimum indices:1922
+
+       ---  log from 16:58:17.811088---:
+  Minimum collision time:0.000125783096397
+
+       ---  log from 16:58:17.811240---:
+  Minimum indices:620
+
+       ---  log from 16:58:17.813434---:
+  Minimum collision time:0.000200756401378
+
+       ---  log from 16:58:17.813571---:
+  Minimum indices:1617
+
+       ---  log from 16:58:17.815544---:
+  Minimum collision time:1.91647796636e-05
+
+       ---  log from 16:58:17.815678---:
+  Minimum indices:1424
+
+       ---  log from 16:58:17.821927---:
+  Minimum collision time:3.4080302367e-05
+
+       ---  log from 16:58:17.822744---:
+  Minimum indices:2130
+
+       ---  log from 16:58:17.829040---:
+  Minimum collision time:0.000227701909557
+
+       ---  log from 16:58:17.829491---:
+  Minimum indices:09
+
+       ---  log from 16:58:17.838428---:
+  Minimum collision time:0.000208677737768
+
+       ---  log from 16:58:17.838785---:
+  Minimum indices:2931
+
+       ---  log from 16:58:17.847706---:
+  Minimum collision time:9.90618723452e-05
+
+       ---  log from 16:58:17.848503---:
+  Minimum indices:2231
+
+       ---  log from 16:58:17.856161---:
+  Minimum collision time:2.24873256034e-05
+
+       ---  log from 16:58:17.856634---:
+  Minimum indices:1315
+
+       ---  log from 16:58:17.863990---:
+  Minimum collision time:0.00010832771725
+
+       ---  log from 16:58:17.864442---:
+  Minimum indices:1625
+
+       ---  log from 16:58:17.870347---:
+  Minimum collision time:9.25266743403e-05
+
+       ---  log from 16:58:17.870808---:
+  Minimum indices:011
+
+       ---  log from 16:58:17.875247---:
+  Minimum collision time:0.000454514973134
+
+       ---  log from 16:58:17.875898---:
+  Minimum indices:2730
+
+       ---  log from 16:58:17.881999---:
+  Minimum collision time:0.000698803640504
+
+       ---  log from 16:58:17.882455---:
+  Minimum indices:1723
+
+       ---  log from 16:58:17.885580---:
+  Minimum collision time:0.000306160434285
+
+       ---  log from 16:58:17.885822---:
+  Minimum indices:2124
+
+       ---  log from 16:58:17.888325---:
+  Minimum collision time:5.38462535979e-05
+
+       ---  log from 16:58:17.888665---:
+  Minimum indices:1520
+
+       ---  log from 16:58:17.893805---:
+  Minimum collision time:0.000377251197321
+
+       ---  log from 16:58:17.894182---:
+  Minimum indices:1114
+
+       ---  log from 16:58:17.897684---:
+  Minimum collision time:2.35415439178e-05
+
+       ---  log from 16:58:17.897994---:
+  Minimum indices:918
+
+       ---  log from 16:58:17.902583---:
+  Minimum collision time:0.000621099400056
+
+       ---  log from 16:58:17.902834---:
+  Minimum indices:1125
+
+       ---  log from 16:58:17.906666---:
+  Minimum collision time:0.000459566438571
+
+       ---  log from 16:58:17.906836---:
+  Minimum indices:2031
+
+       ---  log from 16:58:17.910582---:
+  Minimum collision time:0.000172817450523
+
+       ---  log from 16:58:17.910919---:
+  Minimum indices:126
+
+       ---  log from 16:58:17.914514---:
+  Minimum collision time:0.00037620582729
+
+       ---  log from 16:58:17.914975---:
+  Minimum indices:1415
+
+       ---  log from 16:58:17.919176---:
+  Minimum collision time:0.000321052322162
+
+       ---  log from 16:58:17.919393---:
+  Minimum indices:912
+
+       ---  log from 16:58:17.921545---:
+  Minimum collision time:0.000176237096348
+
+       ---  log from 16:58:17.921686---:
+  Minimum indices:013
+
+       ---  log from 16:58:17.925147---:
+  Minimum collision time:1.74244569687e-05
+
+       ---  log from 16:58:17.925321---:
+  Minimum indices:123
+
+       ---  log from 16:58:17.929417---:
+  Minimum collision time:6.40650803889e-05
+
+       ---  log from 16:58:17.929877---:
+  Minimum indices:1213
+
+       ---  log from 16:58:17.933748---:
+  Minimum collision time:9.66728768939e-05
+
+       ---  log from 16:58:17.933921---:
+  Minimum indices:013
+
+       ---  log from 16:58:17.936045---:
+  Minimum collision time:0.000198860951044
+
+       ---  log from 16:58:17.936172---:
+  Minimum indices:46
+
+       ---  log from 16:58:17.937907---:
+  Minimum collision time:1.82613743795e-05
+
+       ---  log from 16:58:17.938030---:
+  Minimum indices:06
+
+       ---  log from 16:58:17.939754---:
+  Minimum collision time:0.000176322038272
+
+       ---  log from 16:58:17.939898---:
+  Minimum indices:1629
+
+       ---  log from 16:58:17.941766---:
+  Minimum collision time:0.000657604764244
+
+       ---  log from 16:58:17.941875---:
+  Minimum indices:38
+
+       ---  log from 16:58:17.943503---:
+  Minimum collision time:0.000388365800113
+
+       ---  log from 16:58:17.943630---:
+  Minimum indices:1525
+
+       ---  log from 16:58:17.945368---:
+  Minimum collision time:3.48920358544e-05
+
+       ---  log from 16:58:17.945479---:
+  Minimum indices:811
+
+       ---  log from 16:58:17.946988---:
+  Minimum collision time:2.13106462178e-05
+
+       ---  log from 16:58:17.947102---:
+  Minimum indices:1617
+
+       ---  log from 16:58:17.948824---:
+  Minimum collision time:0.000168720383953
+
+       ---  log from 16:58:17.948922---:
+  Minimum indices:2729
+
+       ---  log from 16:58:17.950581---:
+  Minimum collision time:0.000354857885258
+
+       ---  log from 16:58:17.950727---:
+  Minimum indices:1924
+
+       ---  log from 16:58:17.952512---:
+  Minimum collision time:0.000126587372651
+
+       ---  log from 16:58:17.952638---:
+  Minimum indices:1724
+
+       ---  log from 16:58:17.954225---:
+  Minimum collision time:0.00039195032933
+
+       ---  log from 16:58:17.954328---:
+  Minimum indices:1922
+
+       ---  log from 16:58:17.957047---:
+  Minimum collision time:1.70976613929e-05
+
+       ---  log from 16:58:17.957608---:
+  Minimum indices:2628
+
+       ---  log from 16:58:17.959700---:
+  Minimum collision time:0.000225601256761
+
+       ---  log from 16:58:17.959857---:
+  Minimum indices:1415
+
+       ---  log from 16:58:17.962117---:
+  Minimum collision time:0.000400029127685
+
+       ---  log from 16:58:17.962253---:
+  Minimum indices:721
+
+       ---  log from 16:58:17.963960---:
+  Minimum collision time:2.77219150526e-06
+
+       ---  log from 16:58:17.964089---:
+  Minimum indices:2023
+
+       ---  log from 16:58:17.965941---:
+  Minimum collision time:0.000116905571401
+
+       ---  log from 16:58:17.966075---:
+  Minimum indices:49
+
+       ---  log from 16:58:17.967796---:
+  Minimum collision time:0.000207238190685
+
+       ---  log from 16:58:17.967947---:
+  Minimum indices:1330
+
+       ---  log from 16:58:17.969691---:
+  Minimum collision time:0.000318689955292
+
+       ---  log from 16:58:17.969837---:
+  Minimum indices:2429
+
+       ---  log from 16:58:17.971731---:
+  Minimum collision time:8.76666155265e-07
+
+       ---  log from 16:58:17.971887---:
+  Minimum indices:621
+
+       ---  log from 16:58:17.975635---:
+  Minimum collision time:9.32171965031e-05
+
+       ---  log from 16:58:17.975833---:
+  Minimum indices:1618
+
+       ---  log from 16:58:17.978232---:
+  Minimum collision time:1.48437274055e-05
+
+       ---  log from 16:58:17.978382---:
+  Minimum indices:2022
+
+       ---  log from 16:58:17.980035---:
+  Minimum collision time:0.000113874311997
+
+       ---  log from 16:58:17.980138---:
+  Minimum indices:1024
+
+       ---  log from 16:58:17.982217---:
+  Minimum collision time:8.86017626028e-06
+
+       ---  log from 16:58:17.982463---:
+  Minimum indices:2631
+
+       ---  log from 16:58:17.984404---:
+  Minimum collision time:7.96196942835e-05
+
+       ---  log from 16:58:17.984526---:
+  Minimum indices:1314
+
+       ---  log from 16:58:17.986119---:
+  Minimum collision time:0.00028639396884
+
+       ---  log from 16:58:17.986245---:
+  Minimum indices:29
+
+       ---  log from 16:58:17.987818---:
+  Minimum collision time:3.36420459216e-05
+
+       ---  log from 16:58:17.987931---:
+  Minimum indices:710
+
+       ---  log from 16:58:17.989873---:
+  Minimum collision time:2.26082946238e-05
+
+       ---  log from 16:58:17.989985---:
+  Minimum indices:2426
+
+       ---  log from 16:58:17.991542---:
+  Minimum collision time:7.4121900442e-05
+
+       ---  log from 16:58:17.991655---:
+  Minimum indices:2123
+
+       ---  log from 16:58:17.993314---:
+  Minimum collision time:8.98763148496e-05
+
+       ---  log from 16:58:17.993440---:
+  Minimum indices:1930
+
+       ---  log from 16:58:17.995333---:
+  Minimum collision time:0.000204086706183
+
+       ---  log from 16:58:17.995461---:
+  Minimum indices:1025
+
+       ---  log from 16:58:17.997333---:
+  Minimum collision time:0.000267629642749
+
+       ---  log from 16:58:17.997507---:
+  Minimum indices:911
+
+       ---  log from 16:58:17.999587---:
+  Minimum collision time:6.00807112634e-05
+
+       ---  log from 16:58:17.999737---:
+  Minimum indices:514
+
+       ---  log from 16:58:18.001831---:
+  Minimum collision time:1.61954911636e-05
+
+       ---  log from 16:58:18.001942---:
+  Minimum indices:112
+
+       ---  log from 16:58:18.003544---:
+  Minimum collision time:0.000256328240453
+
+       ---  log from 16:58:18.003703---:
+  Minimum indices:23
+
+       ---  log from 16:58:18.005561---:
+  Minimum collision time:0.000109214090138
+
+       ---  log from 16:58:18.005669---:
+  Minimum indices:927
+
+       ---  log from 16:58:18.007387---:
+  Minimum collision time:7.58019019108e-05
+
+       ---  log from 16:58:18.007529---:
+  Minimum indices:1921
+
+       ---  log from 16:58:18.009129---:
+  Minimum collision time:0.000152762267139
+
+       ---  log from 16:58:18.009251---:
+  Minimum indices:316
+
+       ---  log from 16:58:18.011110---:
+  Minimum collision time:0.000440085107792
+
+       ---  log from 16:58:18.011250---:
+  Minimum indices:1129
+
+       ---  log from 16:58:18.013244---:
+  Minimum collision time:0.000325864191186
+
+       ---  log from 16:58:18.013394---:
+  Minimum indices:714
+
+       ---  log from 16:58:18.016811---:
+  Minimum collision time:7.41945981256e-05
+
+       ---  log from 16:58:18.016959---:
+  Minimum indices:1629
+
+       ---  log from 16:58:18.019623---:
+  Minimum collision time:3.18678152348e-05
+
+       ---  log from 16:58:18.019785---:
+  Minimum indices:1625
+
+       ---  log from 16:58:18.023231---:
+  Minimum collision time:0.000477607291174
+
+       ---  log from 16:58:18.023467---:
+  Minimum indices:67
+
+       ---  log from 16:58:18.033069---:
+  Minimum collision time:4.39192794409e-05
+
+       ---  log from 16:58:18.033381---:
+  Minimum indices:2330
+
+       ---  log from 16:58:18.039273---:
+  Minimum collision time:0.000269193934435
+
+       ---  log from 16:58:18.039843---:
+  Minimum indices:1214
+
+       ---  log from 16:58:18.044917---:
+  Minimum collision time:0.000104407181584
+
+       ---  log from 16:58:18.045533---:
+  Minimum indices:1011
+
+       ---  log from 16:58:18.053900---:
+  Minimum collision time:6.17342736376e-05
+
+       ---  log from 16:58:18.054067---:
+  Minimum indices:415
+
+       ---  log from 16:58:18.059935---:
+  Minimum collision time:7.85392432008e-05
+
+       ---  log from 16:58:18.060895---:
+  Minimum indices:431
+
+       ---  log from 16:58:18.064865---:
+  Minimum collision time:0.000455823201197
+
+       ---  log from 16:58:18.065260---:
+  Minimum indices:523
+
+       ---  log from 16:58:18.068876---:
+  Minimum collision time:0.000368661204784
+
+       ---  log from 16:58:18.069123---:
+  Minimum indices:2227
+
+       ---  log from 16:58:18.074854---:
+  Minimum collision time:0.000252836521085
+
+       ---  log from 16:58:18.075183---:
+  Minimum indices:324
+
+       ---  log from 16:58:18.079228---:
+  Minimum collision time:0.000117089693808
+
+       ---  log from 16:58:18.079394---:
+  Minimum indices:17
+
+       ---  log from 16:58:18.082476---:
+  Minimum collision time:2.08097691231e-05
+
+       ---  log from 16:58:18.082639---:
+  Minimum indices:29
+
+       ---  log from 16:58:18.085862---:
+  Minimum collision time:0.000225169909108
+
+       ---  log from 16:58:18.086019---:
+  Minimum indices:2124
+
+       ---  log from 16:58:18.090562---:
+  Minimum collision time:0.000528643425916
+
+       ---  log from 16:58:18.090894---:
+  Minimum indices:2429
+
+       ---  log from 16:58:18.095216---:
+  Minimum collision time:2.86704318378e-05
+
+       ---  log from 16:58:18.095823---:
+  Minimum indices:819
+
+       ---  log from 16:58:18.100979---:
+  Minimum collision time:0.000110664514537
+
+       ---  log from 16:58:18.101172---:
+  Minimum indices:1820
+
+       ---  log from 16:58:18.104528---:
+  Minimum collision time:0.000551984772581
+
+       ---  log from 16:58:18.104686---:
+  Minimum indices:1421
+
+       ---  log from 16:58:18.109248---:
+  Minimum collision time:0.000481879243571
+
+       ---  log from 16:58:18.109419---:
+  Minimum indices:211
+
+       ---  log from 16:58:18.115839---:
+  Minimum collision time:0.000612982576982
+
+       ---  log from 16:58:18.116136---:
+  Minimum indices:910
+
+       ---  log from 16:58:18.121606---:
+  Minimum collision time:0.000319813250957
+
+       ---  log from 16:58:18.121966---:
+  Minimum indices:931
+
+       ---  log from 16:58:18.126109---:
+  Minimum collision time:0.000178728390354
+
+       ---  log from 16:58:18.126832---:
+  Minimum indices:1520
+
+       ---  log from 16:58:18.136954---:
+  Minimum collision time:0.000249721343786
+
+       ---  log from 16:58:18.137896---:
+  Minimum indices:05
+
+       ---  log from 16:58:18.144410---:
+  Minimum collision time:3.23260239113e-05
+
+       ---  log from 16:58:18.145544---:
+  Minimum indices:826
+
+       ---  log from 16:58:18.153231---:
+  Minimum collision time:0.000144636425334
+
+       ---  log from 16:58:18.153576---:
+  Minimum indices:2029
+
+       ---  log from 16:58:18.158130---:
+  Minimum collision time:4.83151165146e-05
+
+       ---  log from 16:58:18.158357---:
+  Minimum indices:1823
+
+       ---  log from 16:58:18.165342---:
+  Minimum collision time:0.000121780862214
+
+       ---  log from 16:58:18.165542---:
+  Minimum indices:721
+
+       ---  log from 16:58:18.168197---:
+  Minimum collision time:0.000443360386701
+
+       ---  log from 16:58:18.168588---:
+  Minimum indices:1015
+
+       ---  log from 16:58:18.171344---:
+  Minimum collision time:0.000300088729689
+
+       ---  log from 16:58:18.171486---:
+  Minimum indices:1124
+
+       ---  log from 16:58:18.174160---:
+  Minimum collision time:2.6034357746e-05
+
+       ---  log from 16:58:18.174297---:
+  Minimum indices:2429
+
+       ---  log from 16:58:18.176282---:
+  Minimum collision time:0.000213138564179
+
+       ---  log from 16:58:18.176426---:
+  Minimum indices:2527
+
+       ---  log from 16:58:18.178796---:
+  Minimum collision time:0.00057078007465
+
+       ---  log from 16:58:18.178962---:
+  Minimum indices:1726
+
+       ---  log from 16:58:18.180926---:
+  Minimum collision time:9.32222500364e-06
+
+       ---  log from 16:58:18.181077---:
+  Minimum indices:2730
+
+       ---  log from 16:58:18.182882---:
+  Minimum collision time:0.000407384452352
+
+       ---  log from 16:58:18.183006---:
+  Minimum indices:2531
+
+       ---  log from 16:58:18.184882---:
+  Minimum collision time:0.000289402563249
+
+       ---  log from 16:58:18.185043---:
+  Minimum indices:1113
+
+       ---  log from 16:58:18.187821---:
+  Minimum collision time:0.000134089866034
+
+       ---  log from 16:58:18.187961---:
+  Minimum indices:1230
+
+       ---  log from 16:58:18.190893---:
+  Minimum collision time:0.000189027061205
+
+       ---  log from 16:58:18.191039---:
+  Minimum indices:2425
+
+       ---  log from 16:58:18.192990---:
+  Minimum collision time:2.81903532456e-05
+
+       ---  log from 16:58:18.193106---:
+  Minimum indices:615
+
+       ---  log from 16:58:18.195269---:
+  Minimum collision time:0.000160775087093
+
+       ---  log from 16:58:18.195459---:
+  Minimum indices:1012
+
+       ---  log from 16:58:18.197421---:
+  Minimum collision time:0.000809522370011
+
+       ---  log from 16:58:18.197549---:
+  Minimum indices:2829
+
+       ---  log from 16:58:18.199578---:
+  Minimum collision time:0.000143381647841
+
+       ---  log from 16:58:18.199689---:
+  Minimum indices:927
+
+       ---  log from 16:58:18.201411---:
+  Minimum collision time:0.000326542656047
+
+       ---  log from 16:58:18.201555---:
+  Minimum indices:45
+
+       ---  log from 16:58:18.203794---:
+  Minimum collision time:0.000338772266737
+
+       ---  log from 16:58:18.203949---:
+  Minimum indices:3031
+
+       ---  log from 16:58:18.206419---:
+  Minimum collision time:3.94941806257e-05
+
+       ---  log from 16:58:18.206569---:
+  Minimum indices:1116
+
+       ---  log from 16:58:18.208685---:
+  Minimum collision time:0.000145681883932
+
+       ---  log from 16:58:18.208812---:
+  Minimum indices:01
+
+       ---  log from 16:58:18.210617---:
+  Minimum collision time:8.26824300884e-06
+
+       ---  log from 16:58:18.210767---:
+  Minimum indices:2528
+
+       ---  log from 16:58:18.213151---:
+  Minimum collision time:2.93831353172e-05
+
+       ---  log from 16:58:18.213282---:
+  Minimum indices:629
+
+       ---  log from 16:58:18.215118---:
+  Minimum collision time:0.00044723642013
+
+       ---  log from 16:58:18.215277---:
+  Minimum indices:29
+
+       ---  log from 16:58:18.217704---:
+  Minimum collision time:8.15497614508e-05
+
+       ---  log from 16:58:18.217862---:
+  Minimum indices:126
+
+       ---  log from 16:58:18.220328---:
+  Minimum collision time:9.79760417913e-06
+
+       ---  log from 16:58:18.220500---:
+  Minimum indices:1428
+
+       ---  log from 16:58:18.223444---:
+  Minimum collision time:0.000167357448341
+
+       ---  log from 16:58:18.223605---:
+  Minimum indices:220
+
+       ---  log from 16:58:18.227380---:
+  Minimum collision time:4.65773506532e-05
+
+       ---  log from 16:58:18.227536---:
+  Minimum indices:1619
+
+       ---  log from 16:58:18.233531---:
+  Minimum collision time:0.000220458685532
+
+       ---  log from 16:58:18.233708---:
+  Minimum indices:211
+
+       ---  log from 16:58:18.239766---:
+  Minimum collision time:0.000242259274188
+
+       ---  log from 16:58:18.239928---:
+  Minimum indices:47
+
+       ---  log from 16:58:18.242849---:
+  Minimum collision time:3.31707716819e-05
+
+       ---  log from 16:58:18.243022---:
+  Minimum indices:58
+
+       ---  log from 16:58:18.249331---:
+  Minimum collision time:0.000593468166847
+
+       ---  log from 16:58:18.249480---:
+  Minimum indices:36
+
+       ---  log from 16:58:18.252232---:
+  Minimum collision time:0.000180467460652
+
+       ---  log from 16:58:18.252504---:
+  Minimum indices:1116
+
+       ---  log from 16:58:18.257224---:
+  Minimum collision time:1.94942216161e-05
+
+       ---  log from 16:58:18.257663---:
+  Minimum indices:2223
+
+       ---  log from 16:58:18.261745---:
+  Minimum collision time:6.5597322618e-05
+
+       ---  log from 16:58:18.262434---:
+  Minimum indices:814
+
+       ---  log from 16:58:18.267095---:
+  Minimum collision time:1.41920361261e-05
+
+       ---  log from 16:58:18.267242---:
+  Minimum indices:1028
+
+       ---  log from 16:58:18.270950---:
+  Minimum collision time:5.39119266136e-05
+
+       ---  log from 16:58:18.271905---:
+  Minimum indices:613
+
+       ---  log from 16:58:18.275596---:
+  Minimum collision time:0.000390837314534
+
+       ---  log from 16:58:18.275754---:
+  Minimum indices:1827
+
+       ---  log from 16:58:18.282111---:
+  Minimum collision time:6.16165981574e-05
+
+       ---  log from 16:58:18.282490---:
+  Minimum indices:710
+
+       ---  log from 16:58:18.289275---:
+  Minimum collision time:2.4661537724e-05
+
+       ---  log from 16:58:18.289736---:
+  Minimum indices:1629
+
+       ---  log from 16:58:18.294271---:
+  Minimum collision time:0.000144999915831
+
+       ---  log from 16:58:18.294859---:
+  Minimum indices:29
+
+       ---  log from 16:58:18.299938---:
+  Minimum collision time:0.000256255839244
+
+       ---  log from 16:58:18.300655---:
+  Minimum indices:1215
+
+       ---  log from 16:58:18.303827---:
+  Minimum collision time:0.000107413252705
+
+       ---  log from 16:58:18.303988---:
+  Minimum indices:57
+
+       ---  log from 16:58:18.308506---:
+  Minimum collision time:0.000101319816076
+
+       ---  log from 16:58:18.308688---:
+  Minimum indices:14
+
+       ---  log from 16:58:18.311798---:
+  Minimum collision time:0.000286232708769
+
+       ---  log from 16:58:18.312206---:
+  Minimum indices:1428
+
+       ---  log from 16:58:18.317546---:
+  Minimum collision time:0.000470470617363
+
+       ---  log from 16:58:18.317780---:
+  Minimum indices:512
+
+       ---  log from 16:58:18.321130---:
+  Minimum collision time:0.000153019878717
+
+       ---  log from 16:58:18.321271---:
+  Minimum indices:2430
+
+       ---  log from 16:58:18.324746---:
+  Minimum collision time:0.000161027937139
+
+       ---  log from 16:58:18.325143---:
+  Minimum indices:06
+
+       ---  log from 16:58:18.329326---:
+  Minimum collision time:2.82239573823e-05
+
+       ---  log from 16:58:18.329495---:
+  Minimum indices:616
+
+       ---  log from 16:58:18.334184---:
+  Minimum collision time:2.43003507403e-05
+
+       ---  log from 16:58:18.334342---:
+  Minimum indices:422
+
+       ---  log from 16:58:18.339531---:
+  Minimum collision time:4.66472977051e-05
+
+       ---  log from 16:58:18.340084---:
+  Minimum indices:1327
+
+       ---  log from 16:58:18.344484---:
+  Minimum collision time:0.000172217532766
+
+       ---  log from 16:58:18.344651---:
+  Minimum indices:1223
+
+       ---  log from 16:58:18.347485---:
+  Minimum collision time:0.000314873246483
+
+       ---  log from 16:58:18.347670---:
+  Minimum indices:1720
+
+       ---  log from 16:58:18.350825---:
+  Minimum collision time:6.22095459634e-05
+
+       ---  log from 16:58:18.351042---:
+  Minimum indices:2021
+
+       ---  log from 16:58:18.354977---:
+  Minimum collision time:0.000371823449235
+
+       ---  log from 16:58:18.355347---:
+  Minimum indices:1215
+
+       ---  log from 16:58:18.361037---:
+  Minimum collision time:4.43550967855e-06
+
+       ---  log from 16:58:18.361527---:
+  Minimum indices:811
+
+       ---  log from 16:58:18.366734---:
+  Minimum collision time:0.000174607411653
+
+       ---  log from 16:58:18.367022---:
+  Minimum indices:1315
+
+       ---  log from 16:58:18.370790---:
+  Minimum collision time:0.000256340311542
+
+       ---  log from 16:58:18.370964---:
+  Minimum indices:2931
+
+       ---  log from 16:58:18.375321---:
+  Minimum collision time:0.000380573288976
+
+       ---  log from 16:58:18.375473---:
+  Minimum indices:1017
+
+       ---  log from 16:58:18.378720---:
+  Minimum collision time:5.34716032352e-05
+
+       ---  log from 16:58:18.379113---:
+  Minimum indices:17
+
+       ---  log from 16:58:18.384056---:
+  Minimum collision time:0.000423122616592
+
+       ---  log from 16:58:18.384387---:
+  Minimum indices:12
+
+       ---  log from 16:58:18.387880---:
+  Minimum collision time:1.33851776332e-05
+
+       ---  log from 16:58:18.388027---:
+  Minimum indices:1226
+
+       ---  log from 16:58:18.392078---:
+  Minimum collision time:0.000175210346162
+
+       ---  log from 16:58:18.392398---:
+  Minimum indices:1820
+
+       ---  log from 16:58:18.395948---:
+  Minimum collision time:2.84455177202e-05
+
+       ---  log from 16:58:18.396082---:
+  Minimum indices:2830
+
+       ---  log from 16:58:18.398654---:
+  Minimum collision time:2.97946756519e-05
+
+       ---  log from 16:58:18.398795---:
+  Minimum indices:2427
+
+       ---  log from 16:58:18.402180---:
+  Minimum collision time:1.84876722897e-05
+
+       ---  log from 16:58:18.402325---:
+  Minimum indices:1819
+
+       ---  log from 16:58:18.404936---:
+  Minimum collision time:0.000137190371796
+
+       ---  log from 16:58:18.405082---:
+  Minimum indices:2022
+
+       ---  log from 16:58:18.407658---:
+  Minimum collision time:0.000144701214959
+
+       ---  log from 16:58:18.407806---:
+  Minimum indices:1728
+
+       ---  log from 16:58:18.411199---:
+  Minimum collision time:0.00080935305794
+
+       ---  log from 16:58:18.411332---:
+  Minimum indices:826
+
+       ---  log from 16:58:18.413877---:
+  Minimum collision time:0.000360526974611
+
+       ---  log from 16:58:18.414019---:
+  Minimum indices:2031
+
+       ---  log from 16:58:18.416623---:
+  Minimum collision time:0.000147458556328
+
+       ---  log from 16:58:18.416768---:
+  Minimum indices:1424
+
+       ---  log from 16:58:18.419110---:
+  Minimum collision time:3.09777696536e-05
+
+       ---  log from 16:58:18.419246---:
+  Minimum indices:1723
+
+       ---  log from 16:58:18.421654---:
+  Minimum collision time:6.11386607496e-05
+
+       ---  log from 16:58:18.421904---:
+  Minimum indices:810
+
+       ---  log from 16:58:18.424257---:
+  Minimum collision time:5.6077433235e-05
+
+       ---  log from 16:58:18.424400---:
+  Minimum indices:1116
+
+       ---  log from 16:58:18.427040---:
+  Minimum collision time:9.37158966476e-05
+
+       ---  log from 16:58:18.427178---:
+  Minimum indices:18
+
+       ---  log from 16:58:18.429816---:
+  Minimum collision time:0.00038166521051
+
+       ---  log from 16:58:18.429953---:
+  Minimum indices:931
+
+       ---  log from 16:58:18.432402---:
+  Minimum collision time:2.51459268946e-05
+
+       ---  log from 16:58:18.432542---:
+  Minimum indices:431
+
+       ---  log from 16:58:18.435058---:
+  Minimum collision time:4.0533880632e-05
+
+       ---  log from 16:58:18.435201---:
+  Minimum indices:1230
+
+       ---  log from 16:58:18.437728---:
+  Minimum collision time:0.000216680307135
+
+       ---  log from 16:58:18.437873---:
+  Minimum indices:2031
+
+       ---  log from 16:58:18.440224---:
+  Minimum collision time:0.000184352807555
+
+       ---  log from 16:58:18.440354---:
+  Minimum indices:915
+
+       ---  log from 16:58:18.443251---:
+  Minimum collision time:3.31038110851e-05
+
+       ---  log from 16:58:18.443424---:
+  Minimum indices:29
+
+       ---  log from 16:58:18.446546---:
+  Minimum collision time:0.000237022389424
+
+       ---  log from 16:58:18.446702---:
+  Minimum indices:2526
+
+       ---  log from 16:58:18.451398---:
+  Minimum collision time:0.000135436385787
+
+       ---  log from 16:58:18.451728---:
+  Minimum indices:09
+
+       ---  log from 16:58:18.454986---:
+  Minimum collision time:0.000234632521348
+
+       ---  log from 16:58:18.455140---:
+  Minimum indices:1025
+
+       ---  log from 16:58:18.458465---:
+  Minimum collision time:2.6268135191e-05
+
+       ---  log from 16:58:18.458898---:
+  Minimum indices:415
+
+       ---  log from 16:58:18.463982---:
+  Minimum collision time:8.29855778874e-05
+
+       ---  log from 16:58:18.464555---:
+  Minimum indices:1213
+
+       ---  log from 16:58:18.470022---:
+  Minimum collision time:0.000366029072925
+
+       ---  log from 16:58:18.470307---:
+  Minimum indices:615
+
+       ---  log from 16:58:18.473478---:
+  Minimum collision time:0.000386303511644
+
+       ---  log from 16:58:18.473623---:
+  Minimum indices:1114
+
+       ---  log from 16:58:18.478149---:
+  Minimum collision time:0.000782147325033
+
+       ---  log from 16:58:18.478463---:
+  Minimum indices:011
+
+       ---  log from 16:58:18.482365---:
+  Minimum collision time:6.37072038941e-06
+
+       ---  log from 16:58:18.482548---:
+  Minimum indices:324
+
+       ---  log from 16:58:18.485762---:
+  Minimum collision time:9.05708037801e-06
+
+       ---  log from 16:58:18.485904---:
+  Minimum indices:35
+
+       ---  log from 16:58:18.489838---:
+  Minimum collision time:0.000532078369657
+
+       ---  log from 16:58:18.489991---:
+  Minimum indices:2729
+
+       ---  log from 16:58:18.494134---:
+  Minimum collision time:5.18657953583e-05
+
+       ---  log from 16:58:18.494624---:
+  Minimum indices:1719
+
+       ---  log from 16:58:18.500705---:
+  Minimum collision time:0.000725909338625
+
+       ---  log from 16:58:18.501408---:
+  Minimum indices:018
+
+       ---  log from 16:58:18.506165---:
+  Minimum collision time:0.000157554473545
+
+       ---  log from 16:58:18.506388---:
+  Minimum indices:819
+
+       ---  log from 16:58:18.510563---:
+  Minimum collision time:0.000110436518551
+
+       ---  log from 16:58:18.510961---:
+  Minimum indices:1724
+
+       ---  log from 16:58:18.516197---:
+  Minimum collision time:0.00022686979374
+
+       ---  log from 16:58:18.517068---:
+  Minimum indices:1331
+
+       ---  log from 16:58:18.521947---:
+  Minimum collision time:0.000158011268205
+
+       ---  log from 16:58:18.522146---:
+  Minimum indices:06
+
+       ---  log from 16:58:18.526772---:
+  Minimum collision time:0.000101463486642
+
+       ---  log from 16:58:18.527090---:
+  Minimum indices:912
+
+       ---  log from 16:58:18.533390---:
+  Minimum collision time:1.45758709773e-06
+
+       ---  log from 16:58:18.533848---:
+  Minimum indices:112
+
+       ---  log from 16:58:18.539610---:
+  Minimum collision time:0.000629336228166
+
+       ---  log from 16:58:18.540058---:
+  Minimum indices:728
+
+       ---  log from 16:58:18.546988---:
+  Minimum collision time:0.000278182245237
+
+       ---  log from 16:58:18.547416---:
+  Minimum indices:018
+
+       ---  log from 16:58:18.553402---:
+  Minimum collision time:0.000849103093888
+
+       ---  log from 16:58:18.553933---:
+  Minimum indices:2130
+
+       ---  log from 16:58:18.559515---:
+  Minimum collision time:5.0815594545e-05
+
+       ---  log from 16:58:18.559734---:
+  Minimum indices:1720
+
+       ---  log from 16:58:18.564397---:
+  Minimum collision time:0.000167180019051
+
+       ---  log from 16:58:18.565137---:
+  Minimum indices:1921
+
+       ---  log from 16:58:18.569619---:
+  Minimum collision time:0.000511619479176
+
+       ---  log from 16:58:18.570201---:
+  Minimum indices:1525
+
+       ---  log from 16:58:18.575387---:
+  Minimum collision time:0.000198544199246
+
+       ---  log from 16:58:18.575556---:
+  Minimum indices:1125
+
+       ---  log from 16:58:18.579360---:
+  Minimum collision time:0.000123084014194
+
+       ---  log from 16:58:18.579522---:
+  Minimum indices:629
+
+       ---  log from 16:58:18.582544---:
+  Minimum collision time:9.26055621096e-05
+
+       ---  log from 16:58:18.582706---:
+  Minimum indices:2025
+
+       ---  log from 16:58:18.585729---:
+  Minimum collision time:0.000199656538855
+
+       ---  log from 16:58:18.585886---:
+  Minimum indices:2427
+
+       ---  log from 16:58:18.588335---:
+  Minimum collision time:3.82657384809e-05
+
+       ---  log from 16:58:18.588535---:
+  Minimum indices:910
+
+       ---  log from 16:58:18.590528---:
+  Minimum collision time:1.76472858031e-05
+
+       ---  log from 16:58:18.590673---:
+  Minimum indices:530
+
+       ---  log from 16:58:18.592262---:
+  Minimum collision time:3.30277377907e-05
+
+       ---  log from 16:58:18.592350---:
+  Minimum indices:1719
+
+       ---  log from 16:58:18.593972---:
+  Minimum collision time:0.000150847610745
+
+       ---  log from 16:58:18.594066---:
+  Minimum indices:720
+
+       ---  log from 16:58:18.596160---:
+  Minimum collision time:7.23298728009e-05
+
+       ---  log from 16:58:18.596343---:
+  Minimum indices:1529
+
+       ---  log from 16:58:18.599163---:
+  Minimum collision time:7.29534701332e-05
+
+       ---  log from 16:58:18.599311---:
+  Minimum indices:522
+
+       ---  log from 16:58:18.602025---:
+  Minimum collision time:2.31328056543e-05
+
+       ---  log from 16:58:18.602182---:
+  Minimum indices:813
+
+       ---  log from 16:58:18.604970---:
+  Minimum collision time:0.000267310428781
+
+       ---  log from 16:58:18.605128---:
+  Minimum indices:013
+
+       ---  log from 16:58:18.607881---:
+  Minimum collision time:0.000988875240809
+
+       ---  log from 16:58:18.608048---:
+  Minimum indices:1024
+
+       ---  log from 16:58:18.611679---:
+  Minimum collision time:0.000181014939063
+
+       ---  log from 16:58:18.611839---:
+  Minimum indices:1621
+
+       ---  log from 16:58:18.614717---:
+  Minimum collision time:0.000274230165305
+
+       ---  log from 16:58:18.614876---:
+  Minimum indices:1625
+
+       ---  log from 16:58:18.617224---:
+  Minimum collision time:0.000121954915547
+
+       ---  log from 16:58:18.617336---:
+  Minimum indices:1213
+
+       ---  log from 16:58:18.619506---:
+  Minimum collision time:1.17375911524e-05
+
+       ---  log from 16:58:18.619607---:
+  Minimum indices:1621
+
+       ---  log from 16:58:18.621307---:
+  Minimum collision time:3.63228430212e-05
+
+       ---  log from 16:58:18.621415---:
+  Minimum indices:1825
+
+       ---  log from 16:58:18.623268---:
+  Minimum collision time:0.000364908298025
+
+       ---  log from 16:58:18.623402---:
+  Minimum indices:1617
+
+       ---  log from 16:58:18.625219---:
+  Minimum collision time:9.86339097382e-05
+
+       ---  log from 16:58:18.625349---:
+  Minimum indices:2031
+
+       ---  log from 16:58:18.627651---:
+  Minimum collision time:0.000291453747771
+
+       ---  log from 16:58:18.627817---:
+  Minimum indices:1214
+
+       ---  log from 16:58:18.630430---:
+  Minimum collision time:9.59122980263e-05
+
+       ---  log from 16:58:18.630576---:
+  Minimum indices:13
+
+       ---  log from 16:58:18.634174---:
+  Minimum collision time:3.0963171771e-05
+
+       ---  log from 16:58:18.634587---:
+  Minimum indices:814
+
+       ---  log from 16:58:18.638771---:
+  Minimum collision time:0.000200056521393
+
+       ---  log from 16:58:18.639084---:
+  Minimum indices:1622
+
+       ---  log from 16:58:18.642733---:
+  Minimum collision time:0.00024897503391
+
+       ---  log from 16:58:18.643103---:
+  Minimum indices:811
+
+       ---  log from 16:58:18.646909---:
+  Minimum collision time:7.83078227695e-05
+
+       ---  log from 16:58:18.647104---:
+  Minimum indices:14
+
+       ---  log from 16:58:18.650668---:
+  Minimum collision time:2.16251592483e-05
+
+       ---  log from 16:58:18.650889---:
+  Minimum indices:022
+
+       ---  log from 16:58:18.654035---:
+  Minimum collision time:0.000406271181312
+
+       ---  log from 16:58:18.654343---:
+  Minimum indices:119
+
+       ---  log from 16:58:18.657362---:
+  Minimum collision time:5.30757425171e-05
+
+       ---  log from 16:58:18.657797---:
+  Minimum indices:1331
+
+       ---  log from 16:58:18.662115---:
+  Minimum collision time:0.000694178337675
+
+       ---  log from 16:58:18.662440---:
+  Minimum indices:2628
+
+       ---  log from 16:58:18.667795---:
+  Minimum collision time:0.000466331150932
+
+       ---  log from 16:58:18.668360---:
+  Minimum indices:415
+
+       ---  log from 16:58:18.672067---:
+  Minimum collision time:0.000230188853519
+
+       ---  log from 16:58:18.672254---:
+  Minimum indices:018
+
+       ---  log from 16:58:18.674326---:
+  Minimum collision time:2.69108279852e-05
+
+       ---  log from 16:58:18.674607---:
+  Minimum indices:1322
+
+       ---  log from 16:58:18.678637---:
+  Minimum collision time:3.06236913685e-05
+
+       ---  log from 16:58:18.678842---:
+  Minimum indices:56
+
+       ---  log from 16:58:18.683608---:
+  Minimum collision time:0.000254583903294
+
+       ---  log from 16:58:18.683917---:
+  Minimum indices:09
+
+       ---  log from 16:58:18.686535---:
+  Minimum collision time:0.000185445085768
+
+       ---  log from 16:58:18.686696---:
+  Minimum indices:14
+
+       ---  log from 16:58:18.688790---:
+  Minimum collision time:5.33027105985e-05
+
+       ---  log from 16:58:18.688886---:
+  Minimum indices:2128
+
+       ---  log from 16:58:18.692145---:
+  Minimum collision time:0.00012593524852
+
+       ---  log from 16:58:18.692496---:
+  Minimum indices:23
+
+       ---  log from 16:58:18.696292---:
+  Minimum collision time:2.96622906609e-06
+
+       ---  log from 16:58:18.696640---:
+  Minimum indices:512
+
+       ---  log from 16:58:18.700585---:
+  Minimum collision time:0.0001495841855
+
+       ---  log from 16:58:18.700784---:
+  Minimum indices:1429
+
+       ---  log from 16:58:18.702894---:
+  Minimum collision time:0.0002432781479
+
+       ---  log from 16:58:18.703200---:
+  Minimum indices:216
+
+       ---  log from 16:58:18.706889---:
+  Minimum collision time:0.000189291016326
+
+       ---  log from 16:58:18.707080---:
+  Minimum indices:2631
+
+       ---  log from 16:58:18.713131---:
+  Minimum collision time:0.000416447060796
+
+       ---  log from 16:58:18.713423---:
+  Minimum indices:413
+
+       ---  log from 16:58:18.717359---:
+  Minimum collision time:0.000128561507085
+
+       ---  log from 16:58:18.717839---:
+  Minimum indices:2425
+
+       ---  log from 16:58:18.721596---:
+  Minimum collision time:0.000207051501108
+
+       ---  log from 16:58:18.721714---:
+  Minimum indices:1315
+
+       ---  log from 16:58:18.724377---:
+  Minimum collision time:7.49260248194e-05
+
+       ---  log from 16:58:18.724854---:
+  Minimum indices:1922
+
+       ---  log from 16:58:18.727082---:
+  Minimum collision time:0.000268890925685
+
+       ---  log from 16:58:18.727261---:
+  Minimum indices:2531
+
+       ---  log from 16:58:18.730700---:
+  Minimum collision time:0.000206127077413
+
+       ---  log from 16:58:18.731170---:
+  Minimum indices:14
+
+       ---  log from 16:58:18.736059---:
+  Minimum collision time:9.94157490961e-05
+
+       ---  log from 16:58:18.736268---:
+  Minimum indices:1726
+
+       ---  log from 16:58:18.738532---:
+  Minimum collision time:1.05429756891e-06
+
+       ---  log from 16:58:18.738675---:
+  Minimum indices:1012
+
+       ---  log from 16:58:18.741489---:
+  Minimum collision time:9.01175852741e-05
+
+       ---  log from 16:58:18.742236---:
+  Minimum indices:310
+
+       ---  log from 16:58:18.750236---:
+  Minimum collision time:0.000197833502503
+
+       ---  log from 16:58:18.750625---:
+  Minimum indices:2223
+
+       ---  log from 16:58:18.755515---:
+  Minimum collision time:1.25829210555e-05
+
+       ---  log from 16:58:18.755841---:
+  Minimum indices:110
+
+       ---  log from 16:58:18.762828---:
+  Minimum collision time:0.000135799975637
+
+       ---  log from 16:58:18.763218---:
+  Minimum indices:321
+
+       ---  log from 16:58:18.768009---:
+  Minimum collision time:0.000224928490232
+
+       ---  log from 16:58:18.768380---:
+  Minimum indices:2829
+
+       ---  log from 16:58:18.771651---:
+  Minimum collision time:0.000192611081681
+
+       ---  log from 16:58:18.771854---:
+  Minimum indices:620
+
+       ---  log from 16:58:18.775680---:
+  Minimum collision time:0.000372680135637
+
+       ---  log from 16:58:18.775917---:
+  Minimum indices:027
+
+       ---  log from 16:58:18.780056---:
+  Minimum collision time:5.7062442676e-05
+
+       ---  log from 16:58:18.780557---:
+  Minimum indices:2931
+
+       ---  log from 16:58:18.784584---:
+  Minimum collision time:0.00056469681514
+
+       ---  log from 16:58:18.784780---:
+  Minimum indices:2831
+
+       ---  log from 16:58:18.786703---:
+  Minimum collision time:8.82592762079e-05
+
+       ---  log from 16:58:18.786807---:
+  Minimum indices:217
+
+       ---  log from 16:58:18.788566---:
+  Minimum collision time:9.35690973535e-05
+
+       ---  log from 16:58:18.788713---:
+  Minimum indices:2729
+
+       ---  log from 16:58:18.790967---:
+  Minimum collision time:0.000252826270617
+
+       ---  log from 16:58:18.791106---:
+  Minimum indices:013
+
+       ---  log from 16:58:18.793064---:
+  Minimum collision time:3.24267092776e-05
+
+       ---  log from 16:58:18.793204---:
+  Minimum indices:027
+
+       ---  log from 16:58:18.794897---:
+  Minimum collision time:0.000110170179299
+
+       ---  log from 16:58:18.795048---:
+  Minimum indices:1627
+
+       ---  log from 16:58:18.797009---:
+  Minimum collision time:6.7031480129e-05
+
+       ---  log from 16:58:18.797109---:
+  Minimum indices:2326
+
+       ---  log from 16:58:18.798796---:
+  Minimum collision time:0.000326626871828
+
+       ---  log from 16:58:18.798886---:
+  Minimum indices:38
+
+       ---  log from 16:58:18.800356---:
+  Minimum collision time:5.8999735776e-06
+
+       ---  log from 16:58:18.800465---:
+  Minimum indices:1528
+
+       ---  log from 16:58:18.802100---:
+  Minimum collision time:0.00025364739877
+
+       ---  log from 16:58:18.802195---:
+  Minimum indices:112
+
+       ---  log from 16:58:18.803764---:
+  Minimum collision time:0.000529333508149
+
+       ---  log from 16:58:18.803853---:
+  Minimum indices:2229
+
+       ---  log from 16:58:18.805725---:
+  Minimum collision time:0.000243637654326
+
+       ---  log from 16:58:18.805873---:
+  Minimum indices:1223
+
+       ---  log from 16:58:18.808358---:
+  Minimum collision time:0.000319472154392
+
+       ---  log from 16:58:18.808486---:
+  Minimum indices:2022
+
+       ---  log from 16:58:18.810500---:
+  Minimum collision time:0.000696834995809
+
+       ---  log from 16:58:18.810601---:
+  Minimum indices:611
+
+       ---  log from 16:58:18.812257---:
+  Minimum collision time:0.000225977092314
+
+       ---  log from 16:58:18.812380---:
+  Minimum indices:13
+
+       ---  log from 16:58:18.814365---:
+  Minimum collision time:0.00041310523526
+
+       ---  log from 16:58:18.814478---:
+  Minimum indices:1017
+
+       ---  log from 16:58:18.816017---:
+  Minimum collision time:0.000759436701739
+
+       ---  log from 16:58:18.816114---:
+  Minimum indices:1429
+
+       ---  log from 16:58:18.817623---:
+  Minimum collision time:0.000141464689943
+
+       ---  log from 16:58:18.817711---:
+  Minimum indices:1314
+
+       ---  log from 16:58:18.819325---:
+  Minimum collision time:1.05744687033e-05
+
+       ---  log from 16:58:18.819428---:
+  Minimum indices:05
+
+       ---  log from 16:58:18.821286---:
+  Minimum collision time:0.000150346658729
+
+       ---  log from 16:58:18.821397---:
+  Minimum indices:89
+
+       ---  log from 16:58:18.823501---:
+  Minimum collision time:0.000126957307145
+
+       ---  log from 16:58:18.823638---:
+  Minimum indices:06
+
+       ---  log from 16:58:18.826141---:
+  Minimum collision time:1.59476866443e-05
+
+       ---  log from 16:58:18.826279---:
+  Minimum indices:418
+
+       ---  log from 16:58:18.828647---:
+  Minimum collision time:0.000529412352411
+
+       ---  log from 16:58:18.828802---:
+  Minimum indices:56
+
+       ---  log from 16:58:18.830953---:
+  Minimum collision time:0.000419008654181
+
+       ---  log from 16:58:18.831082---:
+  Minimum indices:215
+
+       ---  log from 16:58:18.833171---:
+  Minimum collision time:0.000310040111398
+
+       ---  log from 16:58:18.833274---:
+  Minimum indices:027
+
+       ---  log from 16:58:18.836593---:
+  Minimum collision time:0.000247235811062
+
+       ---  log from 16:58:18.837385---:
+  Minimum indices:1125
+
+       ---  log from 16:58:18.845285---:
+  Minimum collision time:0.000115307716718
+
+       ---  log from 16:58:18.845410---:
+  Minimum indices:126
+
+       ---  log from 16:58:18.850581---:
+  Minimum collision time:9.91299577937e-05
+
+       ---  log from 16:58:18.851198---:
+  Minimum indices:47
+
+       ---  log from 16:58:18.856903---:
+  Minimum collision time:0.000281565989435
+
+       ---  log from 16:58:18.857155---:
+  Minimum indices:03
+
+       ---  log from 16:58:18.860027---:
+  Minimum collision time:0.000251332674893
+
+       ---  log from 16:58:18.860667---:
+  Minimum indices:1629
+
+       ---  log from 16:58:18.866983---:
+  Minimum collision time:0.000128681978507
+
+       ---  log from 16:58:18.867148---:
+  Minimum indices:2426
+
+       ---  log from 16:58:18.872633---:
+  Minimum collision time:0.000160723118429
+
+       ---  log from 16:58:18.872830---:
+  Minimum indices:027
+
+       ---  log from 16:58:18.876215---:
+  Minimum collision time:0.000903310710602
+
+       ---  log from 16:58:18.877110---:
+  Minimum indices:911
+
+       ---  log from 16:58:18.882452---:
+  Minimum collision time:0.00026528298037
+
+       ---  log from 16:58:18.882998---:
+  Minimum indices:1230
+
+       ---  log from 16:58:18.888467---:
+  Minimum collision time:0.000173748685802
+
+       ---  log from 16:58:18.888656---:
+  Minimum indices:45
+
+       ---  log from 16:58:18.893779---:
+  Minimum collision time:0.000638134424891
+
+       ---  log from 16:58:18.894621---:
+  Minimum indices:2627
+
+       ---  log from 16:58:18.899625---:
+  Minimum collision time:0.000487308156374
+
+       ---  log from 16:58:18.900194---:
+  Minimum indices:2023
+
+       ---  log from 16:58:18.904411---:
+  Minimum collision time:5.04354256283e-06
+
+       ---  log from 16:58:18.904561---:
+  Minimum indices:23
+
+       ---  log from 16:58:18.907685---:
+  Minimum collision time:8.80212914506e-05
+
+       ---  log from 16:58:18.908034---:
+  Minimum indices:1424
+
+       ---  log from 16:58:18.912698---:
+  Minimum collision time:8.70694952226e-05
+
+       ---  log from 16:58:18.912874---:
+  Minimum indices:422
+
+       ---  log from 16:58:18.916532---:
+  Minimum collision time:0.000173951686767
+
+       ---  log from 16:58:18.916743---:
+  Minimum indices:1315
+
+       ---  log from 16:58:18.918909---:
+  Minimum collision time:8.06224833579e-05
+
+       ---  log from 16:58:18.919037---:
+  Minimum indices:915
+
+       ---  log from 16:58:18.921802---:
+  Minimum collision time:4.74137788316e-05
+
+       ---  log from 16:58:18.922085---:
+  Minimum indices:1231
+
+       ---  log from 16:58:18.924856---:
+  Minimum collision time:0.000209199534742
+
+       ---  log from 16:58:18.925001---:
+  Minimum indices:1820
+
+       ---  log from 16:58:18.927663---:
+  Minimum collision time:0.000135171442439
+
+       ---  log from 16:58:18.927970---:
+  Minimum indices:46
+
+       ---  log from 16:58:18.932814---:
+  Minimum collision time:5.68376098441e-05
+
+       ---  log from 16:58:18.932966---:
+  Minimum indices:2628
+
+       ---  log from 16:58:18.935405---:
+  Minimum collision time:7.22350095984e-05
+
+       ---  log from 16:58:18.935524---:
+  Minimum indices:27
+
+       ---  log from 16:58:18.937573---:
+  Minimum collision time:2.49641891265e-05
+
+       ---  log from 16:58:18.937816---:
+  Minimum indices:1113
+
+       ---  log from 16:58:18.940083---:
+  Minimum collision time:0.00020529381322
+
+       ---  log from 16:58:18.940232---:
+  Minimum indices:1930
+
+       ---  log from 16:58:18.942065---:
+  Minimum collision time:4.4863474136e-05
+
+       ---  log from 16:58:18.942179---:
+  Minimum indices:826
+
+       ---  log from 16:58:18.944851---:
+  Minimum collision time:0.000193899813795
+
+       ---  log from 16:58:18.945213---:
+  Minimum indices:24
+
+       ---  log from 16:58:18.950018---:
+  Minimum collision time:0.000129238165671
+
+       ---  log from 16:58:18.950222---:
+  Minimum indices:2231
+
+       ---  log from 16:58:18.952751---:
+  Minimum collision time:0.000286925846854
+
+       ---  log from 16:58:18.952908---:
+  Minimum indices:1924
+
+       ---  log from 16:58:18.954421---:
+  Minimum collision time:0.000138691855251
+
+       ---  log from 16:58:18.954563---:
+  Minimum indices:217
+
+       ---  log from 16:58:18.956608---:
+  Minimum collision time:7.7691881873e-05
+
+       ---  log from 16:58:18.956720---:
+  Minimum indices:2429
+
+       ---  log from 16:58:18.958263---:
+  Minimum collision time:2.17940974479e-06
+
+       ---  log from 16:58:18.958394---:
+  Minimum indices:126
+
+       ---  log from 16:58:18.960456---:
+  Minimum collision time:0.000162684391111
+
+       ---  log from 16:58:18.960589---:
+  Minimum indices:1025
+
+       ---  log from 16:58:18.962644---:
+  Minimum collision time:0.00023769196556
+
+       ---  log from 16:58:18.962747---:
+  Minimum indices:512
+
+       ---  log from 16:58:18.964800---:
+  Minimum collision time:0.000479764493481
+
+       ---  log from 16:58:18.964907---:
+  Minimum indices:714
+
+       ---  log from 16:58:18.966582---:
+  Minimum collision time:3.41985387096e-05
+
+       ---  log from 16:58:18.966684---:
+  Minimum indices:1327
+
+       ---  log from 16:58:18.968667---:
+  Minimum collision time:3.42232286919e-05
+
+       ---  log from 16:58:18.968781---:
+  Minimum indices:519
+
+       ---  log from 16:58:18.970248---:
+  Minimum collision time:5.81969169065e-05
+
+       ---  log from 16:58:18.970377---:
+  Minimum indices:2328
+
+       ---  log from 16:58:18.972851---:
+  Minimum collision time:5.72393815822e-05
+
+       ---  log from 16:58:18.972959---:
+  Minimum indices:36
+
+       ---  log from 16:58:18.974626---:
+  Minimum collision time:1.67210992607e-05
+
+       ---  log from 16:58:18.974721---:
+  Minimum indices:3031
+
+       ---  log from 16:58:18.977353---:
+  Minimum collision time:8.09536599512e-05
+
+       ---  log from 16:58:18.977459---:
+  Minimum indices:514
+
+       ---  log from 16:58:18.979366---:
+  Minimum collision time:0.000213655858738
+
+       ---  log from 16:58:18.979474---:
+  Minimum indices:2123
+
+       ---  log from 16:58:18.981426---:
+  Minimum collision time:0.000406942681524
+
+       ---  log from 16:58:18.981525---:
+  Minimum indices:918
+
+       ---  log from 16:58:18.983618---:
+  Minimum collision time:0.000132880862097
+
+       ---  log from 16:58:18.983749---:
+  Minimum indices:1627
+
+       ---  log from 16:58:18.985722---:
+  Minimum collision time:0.000234547408941
+
+       ---  log from 16:58:18.985844---:
+  Minimum indices:1315
+
+       ---  log from 16:58:18.987503---:
+  Minimum collision time:1.37906657158e-05
+
+       ---  log from 16:58:18.987609---:
+  Minimum indices:814
+
+       ---  log from 16:58:18.989756---:
+  Minimum collision time:0.000119298826742
+
+       ---  log from 16:58:18.989896---:
+  Minimum indices:27
+
+       ---  log from 16:58:18.991515---:
+  Minimum collision time:0.000192973231094
+
+       ---  log from 16:58:18.991620---:
+  Minimum indices:123
+
+       ---  log from 16:58:18.993352---:
+  Minimum collision time:0.000151443247228
+
+       ---  log from 16:58:18.993464---:
+  Minimum indices:910
+
+       ---  log from 16:58:18.995002---:
+  Minimum collision time:4.72415983287e-05
+
+       ---  log from 16:58:18.995100---:
+  Minimum indices:2628
+
+       ---  log from 16:58:18.996879---:
+  Minimum collision time:7.04741453135e-05
+
+       ---  log from 16:58:18.996979---:
+  Minimum indices:2526
+
+       ---  log from 16:58:18.998620---:
+  Minimum collision time:0.000349901931412
+
+       ---  log from 16:58:18.998732---:
+  Minimum indices:1922
+
+       ---  log from 16:58:19.000326---:
+  Minimum collision time:0.000157247856539
+
+       ---  log from 16:58:19.000471---:
+  Minimum indices:02
+
+       ---  log from 16:58:19.002003---:
+  Minimum collision time:0.000224756269901
+
+       ---  log from 16:58:19.002107---:
+  Minimum indices:1011
+
+       ---  log from 16:58:19.003677---:
+  Minimum collision time:1.2928502051e-05
+
+       ---  log from 16:58:19.003794---:
+  Minimum indices:2730
+
+       ---  log from 16:58:19.005725---:
+  Minimum collision time:9.64205111939e-05
+
+       ---  log from 16:58:19.005869---:
+  Minimum indices:423
+
+       ---  log from 16:58:19.007853---:
+  Minimum collision time:0.000271559133721
+
+       ---  log from 16:58:19.007983---:
+  Minimum indices:1924
+
+       ---  log from 16:58:19.011278---:
+  Minimum collision time:0.000228986485938
+
+       ---  log from 16:58:19.011447---:
+  Minimum indices:2123
+
+       ---  log from 16:58:19.013492---:
+  Minimum collision time:3.07414689372e-05
+
+       ---  log from 16:58:19.013613---:
+  Minimum indices:712
+
+       ---  log from 16:58:19.015318---:
+  Minimum collision time:0.000165043469958
+
+       ---  log from 16:58:19.015416---:
+  Minimum indices:2025
+
+       ---  log from 16:58:19.017224---:
+  Minimum collision time:4.3621290346e-05
+
+       ---  log from 16:58:19.018170---:
+  Minimum indices:1827
+
+       ---  log from 16:58:19.021659---:
+  Minimum collision time:9.29782673877e-05
+
+       ---  log from 16:58:19.021787---:
+  Minimum indices:2128
+
+       ---  log from 16:58:19.023386---:
+  Minimum collision time:0.000108592619452
+
+       ---  log from 16:58:19.023483---:
+  Minimum indices:027
+
+       ---  log from 16:58:19.025509---:
+  Minimum collision time:0.000231864640741
+
+       ---  log from 16:58:19.025668---:
+  Minimum indices:118
+
+       ---  log from 16:58:19.028740---:
+  Minimum collision time:0.000148201143753
+
+       ---  log from 16:58:19.029687---:
+  Minimum indices:220
+
+       ---  log from 16:58:19.035120---:
+  Minimum collision time:0.000380192004629
+
+       ---  log from 16:58:19.035299---:
+  Minimum indices:1330
+
+       ---  log from 16:58:19.038099---:
+  Minimum collision time:1.4425408497e-05
+
+       ---  log from 16:58:19.038249---:
+  Minimum indices:324
+
+       ---  log from 16:58:19.043204---:
+  Minimum collision time:0.000594144733816
+
+       ---  log from 16:58:19.044091---:
+  Minimum indices:621
+
+       ---  log from 16:58:19.051194---:
+  Minimum collision time:0.00018405261045
+
+       ---  log from 16:58:19.052057---:
+  Minimum indices:1617
+
+       ---  log from 16:58:19.058072---:
+  Minimum collision time:5.66666760727e-05
+
+       ---  log from 16:58:19.058543---:
+  Minimum indices:710
+
+       ---  log from 16:58:19.063123---:
+  Minimum collision time:0.000137801779769
+
+       ---  log from 16:58:19.063616---:
+  Minimum indices:1723
+
+       ---  log from 16:58:19.068984---:
+  Minimum collision time:0.000163591991121
+
+       ---  log from 16:58:19.069533---:
+  Minimum indices:2730
+
+       ---  log from 16:58:19.074322---:
+  Minimum collision time:0.000451583990883
+
+       ---  log from 16:58:19.074488---:
+  Minimum indices:2231
+
+       ---  log from 16:58:19.077764---:
+  Minimum collision time:1.82457675872e-05
+
+       ---  log from 16:58:19.077994---:
+  Minimum indices:431
+
+       ---  log from 16:58:19.082520---:
+  Minimum collision time:0.000462648058719
+
+       ---  log from 16:58:19.082680---:
+  Minimum indices:523
+
+       ---  log from 16:58:19.086355---:
+  Minimum collision time:0.000121019273886
+
+       ---  log from 16:58:19.086775---:
+  Minimum indices:1215
+
+       ---  log from 16:58:19.092148---:
+  Minimum collision time:5.69419404546e-05
+
+       ---  log from 16:58:19.092536---:
+  Minimum indices:2021
+
+       ---  log from 16:58:19.096850---:
+  Minimum collision time:0.000383009199713
+
+       ---  log from 16:58:19.097006---:
+  Minimum indices:2430
+
+       ---  log from 16:58:19.099614---:
+  Minimum collision time:2.5690931271e-05
+
+       ---  log from 16:58:19.099769---:
+  Minimum indices:01
+
+       ---  log from 16:58:19.102666---:
+  Minimum collision time:0.000121653392512
+
+       ---  log from 16:58:19.102845---:
+  Minimum indices:2326
+
+       ---  log from 16:58:19.106712---:
+  Minimum collision time:1.24655138902e-05
+
+       ---  log from 16:58:19.107067---:
+  Minimum indices:46
+
+       ---  log from 16:58:19.111810---:
+  Minimum collision time:0.000111151322355
+
+       ---  log from 16:58:19.112080---:
+  Minimum indices:2425
+
+       ---  log from 16:58:19.120428---:
+  Minimum collision time:0.000373892142408
+
+       ---  log from 16:58:19.120712---:
+  Minimum indices:1429
+
+       ---  log from 16:58:19.126721---:
+  Minimum collision time:0.000107442947534
+
+       ---  log from 16:58:19.127310---:
+  Minimum indices:12
+
+       ---  log from 16:58:19.134612---:
+  Minimum collision time:0.000118799115655
+
+       ---  log from 16:58:19.134921---:
+  Minimum indices:2128
+
+       ---  log from 16:58:19.140259---:
+  Minimum collision time:6.90433455802e-05
+
+       ---  log from 16:58:19.141582---:
+  Minimum indices:2430
+
+       ---  log from 16:58:19.151195---:
+  Minimum collision time:0.000154507299486
+
+       ---  log from 16:58:19.151437---:
+  Minimum indices:1728
+
+       ---  log from 16:58:19.164660---:
+  Minimum collision time:1.96683438004e-05
+
+       ---  log from 16:58:19.164857---:
+  Minimum indices:423
+
+       ---  log from 16:58:19.167719---:
+  Minimum collision time:2.92787883442e-05
+
+       ---  log from 16:58:19.167896---:
+  Minimum indices:2527
+
+       ---  log from 16:58:19.170411---:
+  Minimum collision time:0.000728386188255
+
+       ---  log from 16:58:19.170575---:
+  Minimum indices:1424
+
+       ---  log from 16:58:19.173387---:
+  Minimum collision time:2.32267620134e-05
+
+       ---  log from 16:58:19.173540---:
+  Minimum indices:316
+
+       ---  log from 16:58:19.176263---:
+  Minimum collision time:4.13353095733e-06
+
+       ---  log from 16:58:19.176450---:
+  Minimum indices:1011
+
+       ---  log from 16:58:19.179791---:
+  Minimum collision time:0.000180818340594
+
+       ---  log from 16:58:19.179938---:
+  Minimum indices:1226
+
+       ---  log from 16:58:19.182598---:
+  Minimum collision time:0.000168294256644
+
+       ---  log from 16:58:19.182770---:
+  Minimum indices:826
+
+       ---  log from 16:58:19.185466---:
+  Minimum collision time:2.13218354173e-05
+
+       ---  log from 16:58:19.185636---:
+  Minimum indices:013
+
+       ---  log from 16:58:19.188188---:
+  Minimum collision time:0.000210185364485
+
+       ---  log from 16:58:19.188404---:
+  Minimum indices:2526
+
+       ---  log from 16:58:19.191042---:
+  Minimum collision time:0.000341025757203
+
+       ---  log from 16:58:19.191191---:
+  Minimum indices:2029
+
+       ---  log from 16:58:19.193944---:
+  Minimum collision time:0.000169926337734
+
+       ---  log from 16:58:19.194102---:
+  Minimum indices:1421
+
+       ---  log from 16:58:19.196768---:
+  Minimum collision time:0.000183944108374
+
+       ---  log from 16:58:19.196922---:
+  Minimum indices:216
+
+       ---  log from 16:58:19.199711---:
+  Minimum collision time:0.000492315865508
+
+       ---  log from 16:58:19.199860---:
+  Minimum indices:1719
+
+       ---  log from 16:58:19.202389---:
+  Minimum collision time:7.68313975144e-05
+
+       ---  log from 16:58:19.202595---:
+  Minimum indices:2025
+
+       ---  log from 16:58:19.205461---:
+  Minimum collision time:0.000235299609351
+
+       ---  log from 16:58:19.205621---:
+  Minimum indices:3031
+
+       ---  log from 16:58:19.208360---:
+  Minimum collision time:0.000591273752915
+
+       ---  log from 16:58:19.208547---:
+  Minimum indices:05
+
+       ---  log from 16:58:19.211683---:
+  Minimum collision time:0.000213890613456
+
+       ---  log from 16:58:19.211828---:
+  Minimum indices:2123
+
+       ---  log from 16:58:19.214439---:
+  Minimum collision time:0.00036755065513
+
+       ---  log from 16:58:19.214601---:
+  Minimum indices:912
+
+       ---  log from 16:58:19.217335---:
+  Minimum collision time:0.000692139670359
+
+       ---  log from 16:58:19.217503---:
+  Minimum indices:29
+
+       ---  log from 16:58:19.220192---:
+  Minimum collision time:0.000146917236911
+
+       ---  log from 16:58:19.220346---:
+  Minimum indices:13
+
+       ---  log from 16:58:19.223182---:
+  Minimum collision time:1.83966335666e-05
+
+       ---  log from 16:58:19.223340---:
+  Minimum indices:2531
+
+       ---  log from 16:58:19.225456---:
+  Minimum collision time:0.000159159478071
+
+       ---  log from 16:58:19.225647---:
+  Minimum indices:211
+
+       ---  log from 16:58:19.228420---:
+  Minimum collision time:0.000179360776755
+
+       ---  log from 16:58:19.228620---:
+  Minimum indices:49
+
+       ---  log from 16:58:19.231295---:
+  Minimum collision time:0.000102405118713
+
+       ---  log from 16:58:19.231449---:
+  Minimum indices:2427
+
+       ---  log from 16:58:19.234128---:
+  Minimum collision time:0.000188236372074
+
+       ---  log from 16:58:19.234268---:
+  Minimum indices:1428
+
+       ---  log from 16:58:19.236871---:
+  Minimum collision time:0.000375402588968
+
+       ---  log from 16:58:19.237022---:
+  Minimum indices:58
+
+       ---  log from 16:58:19.239706---:
+  Minimum collision time:2.76088480512e-05
+
+       ---  log from 16:58:19.239868---:
+  Minimum indices:2021
+
+       ---  log from 16:58:19.242600---:
+  Minimum collision time:0.000251182015289
+
+       ---  log from 16:58:19.242743---:
+  Minimum indices:2429
+
+       ---  log from 16:58:19.245747---:
+  Minimum collision time:0.000126040244202
+
+       ---  log from 16:58:19.245918---:
+  Minimum indices:912
+
+       ---  log from 16:58:19.248626---:
+  Minimum collision time:4.53483314028e-05
+
+       ---  log from 16:58:19.248791---:
+  Minimum indices:1528
+
+       ---  log from 16:58:19.251798---:
+  Minimum collision time:0.000149270686756
+
+       ---  log from 16:58:19.251964---:
+  Minimum indices:022
+
+       ---  log from 16:58:19.257023---:
+  Minimum collision time:0.00019634410712
+
+       ---  log from 16:58:19.257429---:
+  Minimum indices:1720
+
+       ---  log from 16:58:19.262616---:
+  Minimum collision time:7.6760428026e-05
+
+       ---  log from 16:58:19.263108---:
+  Minimum indices:2023
+
+       ---  log from 16:58:19.268808---:
+  Minimum collision time:2.58084833847e-05
+
+       ---  log from 16:58:19.269446---:
+  Minimum indices:47
+
+       ---  log from 16:58:19.274788---:
+  Minimum collision time:0.000298232479655
+
+       ---  log from 16:58:19.275008---:
+  Minimum indices:1728
+
+       ---  log from 16:58:19.279211---:
+  Minimum collision time:0.000268120463258
+
+       ---  log from 16:58:19.279484---:
+  Minimum indices:09
+
+       ---  log from 16:58:19.284368---:
+  Minimum collision time:5.24948108136e-05
+
+       ---  log from 16:58:19.284966---:
+  Minimum indices:022
+
+       ---  log from 16:58:19.290541---:
+  Minimum collision time:6.89399426155e-05
+
+       ---  log from 16:58:19.290886---:
+  Minimum indices:912
+
+       ---  log from 16:58:19.296315---:
+  Minimum collision time:4.77372171188e-05
+
+       ---  log from 16:58:19.296744---:
+  Minimum indices:1823
+
+       ---  log from 16:58:19.303943---:
+  Minimum collision time:9.30197944757e-06
+
+       ---  log from 16:58:19.304263---:
+  Minimum indices:1622
+
+       ---  log from 16:58:19.307651---:
+  Minimum collision time:0.000454072473005
+
+       ---  log from 16:58:19.307823---:
+  Minimum indices:1116
+
+       ---  log from 16:58:19.312543---:
+  Minimum collision time:0.000133928045992
+
+       ---  log from 16:58:19.312742---:
+  Minimum indices:09
+
+       ---  log from 16:58:19.318500---:
+  Minimum collision time:0.000620212316633
+
+       ---  log from 16:58:19.321473---:
+  Minimum indices:321
+
+       ---  log from 16:58:19.354045---:
+  Minimum collision time:0.000197310288567
+
+       ---  log from 16:58:19.355681---:
+  Minimum indices:720
+
+       ---  log from 16:58:19.369262---:
+  Minimum collision time:0.000411818221893
+
+       ---  log from 16:58:19.369533---:
+  Minimum indices:019
+
+       ---  log from 16:58:19.377158---:
+  Minimum collision time:2.35904911811e-05
+
+       ---  log from 16:58:19.384357---:
+  Minimum indices:17
+
+       ---  log from 16:58:19.424859---:
+  Minimum collision time:0.000206378754075
+
+       ---  log from 16:58:19.425020---:
+  Minimum indices:2229
+
+       ---  log from 16:58:19.427514---:
+  Minimum collision time:0.000169138962732
+
+       ---  log from 16:58:19.427686---:
+  Minimum indices:1017
+
+       ---  log from 16:58:19.430312---:
+  Minimum collision time:6.08163449597e-05
+
+       ---  log from 16:58:19.430477---:
+  Minimum indices:431
+
+       ---  log from 16:58:19.433455---:
+  Minimum collision time:0.000156061188562
+
+       ---  log from 16:58:19.433628---:
+  Minimum indices:2124
+
+       ---  log from 16:58:19.436749---:
+  Minimum collision time:2.1008728652e-05
+
+       ---  log from 16:58:19.436911---:
+  Minimum indices:931
+
+       ---  log from 16:58:19.439724---:
+  Minimum collision time:0.000157728346723
+
+       ---  log from 16:58:19.439879---:
+  Minimum indices:09
+
+       ---  log from 16:58:19.445420---:
+  Minimum collision time:0.000234423817522
+
+       ---  log from 16:58:19.447718---:
+  Minimum indices:1520
+
+       ---  log from 16:58:19.456664---:
+  Minimum collision time:0.00107278913821
+
+       ---  log from 16:58:19.457036---:
+  Minimum indices:2628
+
+       ---  log from 16:58:19.471072---:
+  Minimum collision time:0.000259258524379
+
+       ---  log from 16:58:19.472046---:
+  Minimum indices:2830
+
+       ---  log from 16:58:19.482468---:
+  Minimum collision time:1.72016003209e-05
+
+       ---  log from 16:58:19.483860---:
+  Minimum indices:1330
+
+       ---  log from 16:58:19.548597---:
+  Minimum collision time:0.000600796884582
+
+       ---  log from 16:58:19.549073---:
+  Minimum indices:1214
+
+       ---  log from 16:58:19.555300---:
+  Minimum collision time:0.00039088241228
+
+       ---  log from 16:58:19.555453---:
+  Minimum indices:1719
+
+       ---  log from 16:58:19.558012---:
+  Minimum collision time:0.00044484084773
+
+       ---  log from 16:58:19.558146---:
+  Minimum indices:2123
+
+       ---  log from 16:58:19.560491---:
+  Minimum collision time:0.000120655344425
+
+       ---  log from 16:58:19.560832---:
+  Minimum indices:2021
+
+       ---  log from 16:58:19.563490---:
+  Minimum collision time:9.53159020343e-05
+
+       ---  log from 16:58:19.563629---:
+  Minimum indices:927
+
+       ---  log from 16:58:19.566383---:
+  Minimum collision time:0.000422116065076
+
+       ---  log from 16:58:19.566522---:
+  Minimum indices:1012
+
+       ---  log from 16:58:19.568910---:
+  Minimum collision time:8.5787675443e-05
+
+       ---  log from 16:58:19.569041---:
+  Minimum indices:1617
+
+       ---  log from 16:58:19.571516---:
+  Minimum collision time:0.000181241231101
+
+       ---  log from 16:58:19.571667---:
+  Minimum indices:1820
+
+       ---  log from 16:58:19.574215---:
+  Minimum collision time:0.000239845450449
+
+       ---  log from 16:58:19.574360---:
+  Minimum indices:2729
+
+       ---  log from 16:58:19.576780---:
+  Minimum collision time:8.24871185632e-05
+
+       ---  log from 16:58:19.576954---:
+  Minimum indices:112
+
+       ---  log from 16:58:19.579027---:
+  Minimum collision time:6.71072384811e-06
+
+       ---  log from 16:58:19.579143---:
+  Minimum indices:611
+
+       ---  log from 16:58:19.581072---:
+  Minimum collision time:1.30784189558e-05
+
+       ---  log from 16:58:19.581210---:
+  Minimum indices:314
+
+       ---  log from 16:58:19.582981---:
+  Minimum collision time:0.000182107996423
+
+       ---  log from 16:58:19.583157---:
+  Minimum indices:1011
+
+       ---  log from 16:58:19.585075---:
+  Minimum collision time:0.000158515401859
+
+       ---  log from 16:58:19.585207---:
+  Minimum indices:611
+
+       ---  log from 16:58:19.586867---:
+  Minimum collision time:2.80932975541e-05
+
+       ---  log from 16:58:19.586980---:
+  Minimum indices:38
+
+       ---  log from 16:58:19.588775---:
+  Minimum collision time:0.000171424835092
+
+       ---  log from 16:58:19.588914---:
+  Minimum indices:13
+
+       ---  log from 16:58:19.590694---:
+  Minimum collision time:0.00031888901453
+
+       ---  log from 16:58:19.590850---:
+  Minimum indices:217
+
+       ---  log from 16:58:19.592576---:
+  Minimum collision time:0.000711410117204
+
+       ---  log from 16:58:19.592689---:
+  Minimum indices:827
+
+       ---  log from 16:58:19.594619---:
+  Minimum collision time:0.000310045667178
+
+       ---  log from 16:58:19.594748---:
+  Minimum indices:1724
+
+       ---  log from 16:58:19.596563---:
+  Minimum collision time:5.40682928339e-05
+
+       ---  log from 16:58:19.596699---:
+  Minimum indices:1124
+
+       ---  log from 16:58:19.598970---:
+  Minimum collision time:0.00026412321242
+
+       ---  log from 16:58:19.599116---:
+  Minimum indices:2022
+
+       ---  log from 16:58:19.601786---:
+  Minimum collision time:0.000358279527516
+
+       ---  log from 16:58:19.601893---:
+  Minimum indices:523
+
+       ---  log from 16:58:19.603827---:
+  Minimum collision time:4.60148080626e-05
+
+       ---  log from 16:58:19.603963---:
+  Minimum indices:123
+
+       ---  log from 16:58:19.606626---:
+  Minimum collision time:0.000276233410895
+
+       ---  log from 16:58:19.606827---:
+  Minimum indices:422
+
+       ---  log from 16:58:19.609715---:
+  Minimum collision time:2.78788975414e-05
+
+       ---  log from 16:58:19.609874---:
+  Minimum indices:2425
+
+       ---  log from 16:58:19.612800---:
+  Minimum collision time:0.00036050770083
+
+       ---  log from 16:58:19.612967---:
+  Minimum indices:01
+
+       ---  log from 16:58:19.615837---:
+  Minimum collision time:1.78085660689e-05
+
+       ---  log from 16:58:19.615990---:
+  Minimum indices:2527
+
+       ---  log from 16:58:19.618750---:
+  Minimum collision time:7.15373395293e-05
+
+       ---  log from 16:58:19.618870---:
+  Minimum indices:2130
+
+       ---  log from 16:58:19.620804---:
+  Minimum collision time:1.61219263915e-05
+
+       ---  log from 16:58:19.620915---:
+  Minimum indices:57
+
+       ---  log from 16:58:19.622875---:
+  Minimum collision time:1.34767658189e-06
+
+       ---  log from 16:58:19.623035---:
+  Minimum indices:06
+
+       ---  log from 16:58:19.624741---:
+  Minimum collision time:0.000389333121197
+
+       ---  log from 16:58:19.624873---:
+  Minimum indices:1528
+
+       ---  log from 16:58:19.626539---:
+  Minimum collision time:9.37227635789e-05
+
+       ---  log from 16:58:19.626648---:
+  Minimum indices:1621
+
+       ---  log from 16:58:19.629425---:
+  Minimum collision time:0.0011917572525
+
+       ---  log from 16:58:19.629678---:
+  Minimum indices:1114
+
+       ---  log from 16:58:19.632261---:
+  Minimum collision time:0.000129344284418
+
+       ---  log from 16:58:19.632368---:
+  Minimum indices:717
+
+       ---  log from 16:58:19.634112---:
+  Minimum collision time:0.000162182799866
+
+       ---  log from 16:58:19.634202---:
+  Minimum indices:2330
+
+       ---  log from 16:58:19.637049---:
+  Minimum collision time:0.000150837743811
+
+       ---  log from 16:58:19.637194---:
+  Minimum indices:027
+
+       ---  log from 16:58:19.639602---:
+  Minimum collision time:0.000734068439437
+
+       ---  log from 16:58:19.639736---:
+  Minimum indices:1618
+
+       ---  log from 16:58:19.642791---:
+  Minimum collision time:0.000372749041107
+
+       ---  log from 16:58:19.643016---:
+  Minimum indices:1627
+
+       ---  log from 16:58:19.649222---:
+  Minimum collision time:0.000485939720616
+
+       ---  log from 16:58:19.649680---:
+  Minimum indices:13
+
+       ---  log from 16:58:19.654850---:
+  Minimum collision time:0.000366859922446
+
+       ---  log from 16:58:19.655191---:
+  Minimum indices:57
+
+       ---  log from 16:58:19.659532---:
+  Minimum collision time:7.32586709272e-05
+
+       ---  log from 16:58:19.659946---:
+  Minimum indices:522
+
+       ---  log from 16:58:19.663759---:
+  Minimum collision time:0.000174721787775
+
+       ---  log from 16:58:19.664045---:
+  Minimum indices:215
+
+       ---  log from 16:58:19.670176---:
+  Minimum collision time:0.000192072457989
+
+       ---  log from 16:58:19.670652---:
+  Minimum indices:1230
+
+       ---  log from 16:58:19.673139---:
+  Minimum collision time:9.69609772078e-06
+
+       ---  log from 16:58:19.673385---:
+  Minimum indices:912
+
+       ---  log from 16:58:19.675750---:
+  Minimum collision time:0.000420901987483
+
+       ---  log from 16:58:19.675869---:
+  Minimum indices:926
+
+       ---  log from 16:58:19.677727---:
+  Minimum collision time:0.000108617850202
+
+       ---  log from 16:58:19.677871---:
+  Minimum indices:2831
+
+       ---  log from 16:58:19.681118---:
+  Minimum collision time:0.000152713907134
+
+       ---  log from 16:58:19.681299---:
+  Minimum indices:225
+
+       ---  log from 16:58:19.685628---:
+  Minimum collision time:9.65287627152e-05
+
+       ---  log from 16:58:19.685761---:
+  Minimum indices:512
+
+       ---  log from 16:58:19.688801---:
+  Minimum collision time:3.32022046916e-06
+
+       ---  log from 16:58:19.689138---:
+  Minimum indices:1724
+
+       ---  log from 16:58:19.693160---:
+  Minimum collision time:0.000328624221413
+
+       ---  log from 16:58:19.693312---:
+  Minimum indices:216
+
+       ---  log from 16:58:19.696843---:
+  Minimum collision time:0.000160232185117
+
+       ---  log from 16:58:19.696957---:
+  Minimum indices:2124
+
+       ---  log from 16:58:19.699942---:
+  Minimum collision time:0.000189561655551
+
+       ---  log from 16:58:19.700215---:
+  Minimum indices:46
+
+       ---  log from 16:58:19.702743---:
+  Minimum collision time:1.89860645863e-05
+
+       ---  log from 16:58:19.702915---:
+  Minimum indices:2426
+
+       ---  log from 16:58:19.706527---:
+  Minimum collision time:0.000188029357639
+
+       ---  log from 16:58:19.706927---:
+  Minimum indices:1012
+
+       ---  log from 16:58:19.710163---:
+  Minimum collision time:1.40786100281e-05
+
+       ---  log from 16:58:19.710318---:
+  Minimum indices:819
+
+       ---  log from 16:58:19.712978---:
+  Minimum collision time:0.000151221648583
+
+       ---  log from 16:58:19.713143---:
+  Minimum indices:415
+
+       ---  log from 16:58:19.716965---:
+  Minimum collision time:5.13914131011e-05
+
+       ---  log from 16:58:19.717517---:
+  Minimum indices:022
+
+       ---  log from 16:58:19.722024---:
+  Minimum collision time:3.40488292033e-06
+
+       ---  log from 16:58:19.722207---:
+  Minimum indices:89
+
+       ---  log from 16:58:19.724378---:
+  Minimum collision time:0.000170256656005
+
+       ---  log from 16:58:19.724479---:
+  Minimum indices:2123
+
+       ---  log from 16:58:19.726949---:
+  Minimum collision time:7.10082658762e-05
+
+       ---  log from 16:58:19.727275---:
+  Minimum indices:011
+
+       ---  log from 16:58:19.730996---:
+  Minimum collision time:7.12190781086e-05
+
+       ---  log from 16:58:19.731170---:
+  Minimum indices:022
+
+       ---  log from 16:58:19.734849---:
+  Minimum collision time:0.000360960052307
+
+       ---  log from 16:58:19.735062---:
+  Minimum indices:830
+
+       ---  log from 16:58:19.738034---:
+  Minimum collision time:0.000368140813475
+
+       ---  log from 16:58:19.738394---:
+  Minimum indices:24
+
+       ---  log from 16:58:19.741909---:
+  Minimum collision time:0.000400930647978
+
+       ---  log from 16:58:19.742143---:
+  Minimum indices:2124
+
+       ---  log from 16:58:19.745287---:
+  Minimum collision time:0.000187550497185
+
+       ---  log from 16:58:19.745447---:
+  Minimum indices:1125
+
+       ---  log from 16:58:19.749520---:
+  Minimum collision time:3.41522538645e-05
+
+       ---  log from 16:58:19.750031---:
+  Minimum indices:2427
+
+       ---  log from 16:58:19.755275---:
+  Minimum collision time:6.73061665095e-05
+
+       ---  log from 16:58:19.755622---:
+  Minimum indices:1726
+
+       ---  log from 16:58:19.761337---:
+  Minimum collision time:4.49281636304e-05
+
+       ---  log from 16:58:19.761789---:
+  Minimum indices:2124
+
+       ---  log from 16:58:19.767218---:
+  Minimum collision time:1.12400443709e-05
+
+       ---  log from 16:58:19.767560---:
+  Minimum indices:67
+
+       ---  log from 16:58:19.772878---:
+  Minimum collision time:2.31395507221e-05
+
+       ---  log from 16:58:19.773158---:
+  Minimum indices:714
+
+       ---  log from 16:58:19.776362---:
+  Minimum collision time:5.58541504053e-05
+
+       ---  log from 16:58:19.776893---:
+  Minimum indices:1116
+
+       ---  log from 16:58:19.779850---:
+  Minimum collision time:0.000223682441987
+
+       ---  log from 16:58:19.780016---:
+  Minimum indices:728
+
+       ---  log from 16:58:19.783136---:
+  Minimum collision time:9.99742227629e-05
+
+       ---  log from 16:58:19.783610---:
+  Minimum indices:620
+
+       ---  log from 16:58:19.787521---:
+  Minimum collision time:0.000142174341656
+
+       ---  log from 16:58:19.787859---:
+  Minimum indices:519
+
+       ---  log from 16:58:19.791647---:
+  Minimum collision time:0.000224329402915
+
+       ---  log from 16:58:19.791914---:
+  Minimum indices:2326
+
+       ---  log from 16:58:19.795243---:
+  Minimum collision time:0.000183545150215
+
+       ---  log from 16:58:19.795439---:
+  Minimum indices:1528
+
+       ---  log from 16:58:19.797384---:
+  Minimum collision time:0.000286551704495
+
+       ---  log from 16:58:19.797498---:
+  Minimum indices:1315
+
+       ---  log from 16:58:19.799844---:
+  Minimum collision time:0.000141822708527
+
+       ---  log from 16:58:19.799992---:
+  Minimum indices:35
+
+       ---  log from 16:58:19.802026---:
+  Minimum collision time:2.95793927178e-05
+
+       ---  log from 16:58:19.802156---:
+  Minimum indices:926
+
+       ---  log from 16:58:19.803868---:
+  Minimum collision time:6.67877025607e-05
+
+       ---  log from 16:58:19.803975---:
+  Minimum indices:216
+
+       ---  log from 16:58:19.805741---:
+  Minimum collision time:0.000457389869013
+
+       ---  log from 16:58:19.805921---:
+  Minimum indices:1621
+
+       ---  log from 16:58:19.808891---:
+  Minimum collision time:0.000101455060613
+
+       ---  log from 16:58:19.809056---:
+  Minimum indices:1723
+
+       ---  log from 16:58:19.811089---:
+  Minimum collision time:0.000138524829666
+
+       ---  log from 16:58:19.811290---:
+  Minimum indices:811
+
+       ---  log from 16:58:19.814337---:
+  Minimum collision time:0.000259169106903
+
+       ---  log from 16:58:19.814479---:
+  Minimum indices:1015
+
+       ---  log from 16:58:19.816749---:
+  Minimum collision time:0.000250692093458
+
+       ---  log from 16:58:19.816863---:
+  Minimum indices:1116
+
+       ---  log from 16:58:19.818712---:
+  Minimum collision time:7.06856343615e-05
+
+       ---  log from 16:58:19.818810---:
+  Minimum indices:512
+
+       ---  log from 16:58:19.820490---:
+  Minimum collision time:0.0001250058067
+
+       ---  log from 16:58:19.820582---:
+  Minimum indices:324
+
+       ---  log from 16:58:19.822108---:
+  Minimum collision time:0.000424234066411
+
+       ---  log from 16:58:19.822226---:
+  Minimum indices:1926
+
+       ---  log from 16:58:19.823768---:
+  Minimum collision time:7.08487980687e-05
+
+       ---  log from 16:58:19.823894---:
+  Minimum indices:1114
+
+       ---  log from 16:58:19.826562---:
+  Minimum collision time:0.000281394033032
+
+       ---  log from 16:58:19.826712---:
+  Minimum indices:2831
+
+       ---  log from 16:58:19.830777---:
+  Minimum collision time:0.000146778493078
+
+       ---  log from 16:58:19.831025---:
+  Minimum indices:110
+
+       ---  log from 16:58:19.834701---:
+  Minimum collision time:0.000426496565118
+
+       ---  log from 16:58:19.834893---:
+  Minimum indices:1525
+
+       ---  log from 16:58:19.837355---:
+  Minimum collision time:0.000318814934887
+
+       ---  log from 16:58:19.837510---:
+  Minimum indices:02
+
+       ---  log from 16:58:19.839651---:
+  Minimum collision time:0.0004623723
+
+       ---  log from 16:58:19.839782---:
+  Minimum indices:514
+
+       ---  log from 16:58:19.842443---:
+  Minimum collision time:0.000837880231033
+
+       ---  log from 16:58:19.842596---:
+  Minimum indices:01
+
+       ---  log from 16:58:19.845356---:
+  Minimum collision time:0.000688716443941
+
+       ---  log from 16:58:19.845510---:
+  Minimum indices:2430
+
+       ---  log from 16:58:19.848592---:
+  Minimum collision time:0.000246498676367
+
+       ---  log from 16:58:19.849019---:
+  Minimum indices:23
+
+       ---  log from 16:58:19.854320---:
+  Minimum collision time:6.55757538601e-05
+
+       ---  log from 16:58:19.854513---:
+  Minimum indices:1226
+
+       ---  log from 16:58:19.857090---:
+  Minimum collision time:0.000151539472067
+
+       ---  log from 16:58:19.857229---:
+  Minimum indices:1322
+
+       ---  log from 16:58:19.859592---:
+  Minimum collision time:0.000171354278588
+
+       ---  log from 16:58:19.859727---:
+  Minimum indices:2031
+
+       ---  log from 16:58:19.862927---:
+  Minimum collision time:3.92846235112e-07
+
+       ---  log from 16:58:19.863211---:
+  Minimum indices:2123
+
+       ---  log from 16:58:19.865816---:
+  Minimum collision time:0.000125216605107
+
+       ---  log from 16:58:19.865944---:
+  Minimum indices:423
+
+       ---  log from 16:58:19.868260---:
+  Minimum collision time:0.000108999478508
+
+       ---  log from 16:58:19.868402---:
+  Minimum indices:2123
+
+       ---  log from 16:58:19.870787---:
+  Minimum collision time:0.000181050401903
+
+       ---  log from 16:58:19.870932---:
+  Minimum indices:18

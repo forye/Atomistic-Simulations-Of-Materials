@@ -1,0 +1,44 @@
+!    -*- f90 -*-
+! Note: the context of this file is case sensitive.
+
+subroutine retrieve_collision_info(array,minimum,imin,jmin) ! in retrieve_collision_info.f90
+    double precision dimension(:,:),intent(in) :: array
+    double precision intent(out) :: minimum
+    integer intent(out) :: imin
+    integer intent(out) :: jmin
+end subroutine retrieve_collision_info
+subroutine advance_simulation(tcol,icol,jcol,sigma,pos,vel,delta_vel) ! in advance_simulation.f90
+    double precision intent(in) :: tcol
+    integer intent(in) :: icol
+    integer intent(in) :: jcol
+    double precision intent(in) :: sigma
+    double precision dimension(:,:),intent(inout) :: pos
+    double precision dimension(:,:),intent(inout) :: vel
+    double precision dimension(3),intent(out) :: delta_vel
+end subroutine advance_simulation
+subroutine compute_properties(vel,mom,kin) ! in compute_properties.f90
+    double precision dimension(:,:),intent(in) :: vel
+    double precision dimension(3),intent(out) :: mom
+    double precision intent(out) :: kin
+end subroutine compute_properties
+subroutine write_properties(c,mom,kin,tcol,icol,jcol,delta_vel) ! in write_properties.f90
+    integer intent(in) :: c
+    double precision dimension(3),intent(in) :: mom
+    double precision intent(in) :: kin
+    double precision intent(in) :: tcol
+    integer intent(in) :: icol
+    integer intent(in) :: jcol
+    double precision dimension(3),intent(in) :: delta_vel
+end subroutine write_properties
+subroutine update_collisions_table(pos,vel,sigma,tcol,icol,jcol,ctime) ! in update_collisions_table.f90
+    double precision dimension(:,:),intent(in) :: pos
+    double precision dimension(:,:),intent(in) :: vel
+    double precision intent(in) :: sigma
+    double precision intent(in) :: tcol
+    integer intent(in) :: icol
+    integer intent(in) :: jcol
+    double precision dimension(:,:),intent(inout) :: ctime
+end subroutine update_collisions_table
+
+! This file was auto-generated with f2py (version:2).
+! See http://cens.ioc.ee/projects/f2py2e/
