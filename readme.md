@@ -63,6 +63,7 @@ then modified for benchmarks:
 1. execute
 expirement parameteres: 300,000 times to increse meausurement in the tendency for equalibirium
     4 cases:
+
         1. rv = 1.2, n=2 ( number of spheres = 32)
         python: 439.53 secs fortran: 50.58 secs
         
