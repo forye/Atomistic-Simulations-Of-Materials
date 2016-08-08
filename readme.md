@@ -1,4 +1,4 @@
-Code in diffrent language project introduction:
+Code in diffrent language project:
 
 This paper is to provied a python alternative to the Fortran code, simulating the coliding spheres model with periodinc boundry conditions, described in #link_to_article
 
