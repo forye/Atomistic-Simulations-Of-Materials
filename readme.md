@@ -1,5 +1,5 @@
 # Fortran vs Numpy for classical MD
-### Code in Different Language Project comparing Fortran implementation and NumPy implementation. 
+### Code in Different Language Project comparing Fortran implementation and NumPy implementation of classical Molecular dynamics code. 
 
 This project provides a Python alternative to the Fortran code, simulating the colliding spheres model with periodic boundary conditions. The model is described in [link_to_article](#link_to_article).
 
