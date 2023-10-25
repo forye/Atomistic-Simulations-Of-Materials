@@ -1,35 +1,35 @@
-Code in diffrent language project:
+# Code in Different Language Project
 
-This paper is to provied a python alternative to the Fortran code, simulating the coliding spheres model with periodinc boundry conditions, described in #link_to_article
+This project provides a Python alternative to the Fortran code, simulating the colliding spheres model with periodic boundary conditions. The model is described in [link_to_article](#link_to_article).
 
-Python is an object oriented interpreted language. It can be seen as a generic wrapper for a vast selection of modules and packages (some written in C and Fortran) for various porpeouses and dicipilnes. It's good for Web and clowd computing, great with strings and files, most common language for Machine learning,  This can make it very slow and ineffician if miss-used or a great tool if used well. 
+## Introduction
 
-The main package in the python is Numpy, a computational package that implements numpy.array ( and f2py...) leaned to BLAS and LAPCK with C (and somtimes fortran) implementation. By the use of vectors opperation, Numpy is optimized to skip the overhead necsary for itterations, and can result really fast calculations. 
+Python is an object-oriented interpreted language. It serves as a generic wrapper for a plethora of modules and packages (some written in C and Fortran) for various purposes and disciplines. While Python is highly versatile, making it apt for web, cloud computing, string manipulations, and machine learning, it can be slow and inefficient if misused. However, when used correctly, Python can be an incredible tool.
 
-In order to utilize python best numeric calculation efficiency, the loops itterative operations need to be rewriten as vector opperation using numpy arrays data structures, array indexing and masked arrays operations will be used to focus vector operations to only where needed
+The crux of numerical computations in Python lies in the **Numpy** package, which offers `numpy.array` (and `f2py`). With its roots tied to BLAS and LAPCK and being implemented in C (and occasionally Fortran), Numpy is optimized to minimize iteration overhead, resulting in rapid calculations.
 
-I inutivly expect Numpy Python should run slower due to the overhead it contains in compairisment to pure Fortran, but in a magnitude order, and in large data structures operations, performance should converge. This should make Python faverable due to additional options it provides, the ease of writing and the fact that its an object oriented language.
+To exploit Python's numerical computation capabilities, iterative loop operations should be rewritten using numpy arrays. This will involve data structures, array indexing, and masked array operations to concentrate vector operations where required.
 
+The intuitive expectation is that Numpy in Python might run slower than pure Fortran due to inherent overheads. However, for larger data structures, the performance difference should shrink, making Python a more favorable choice.
 
-Step 1 - preparing the code
+## Step 1: Preparing the Code
 
-In order to comapre fortran and Python implementation, I've selected the 5 subroutines that are repeated each collision and implemented them in Numpy in a python script named spheres. 
+To compare Fortran and Python, five subroutines were selected. These subroutines are repeated with each collision and have been implemented in Numpy in a Python script named `spheres`.
 
-The Python scrip imitates the execution of the fortran code with use of numpy functions. In addition additional tests has been added, for example: test if the spheres are coliding with each other, if the collision time is positive, if the collision time matrix is simetric (instead of triangular matrix, due to realization threw vector operations)
-also a configuration file has been added.
+Additional functionalities include:
+- Testing if spheres collide
+- Ensuring positive collision time
+- Checking for a symmetric collision time matrix
+- A configuration file
 
-I've also realized of the python script as a python obejct oriented module.
-Then I have modified the implementations to 2 equivavlent version of the same algorithm, one in Python-Numpy and the other in Fortran and time each. The program allows to itterate several time on the same exectution.
+There are different versions of the code:
 
-Ive created several versions of the code
-    
-    1st :Is the Object oriented version
-    
-    2nd: Is an aligned to the fortran implemetation version
+1. **Object-oriented version**
+2. **Aligned with the Fortran implementation version**
 
 
 Python functions signitures:
-
+```python
     def spheres.retrieve_collision_info(c_time):        
         returns tcol, jcol, icol
     def spheres.advance_simulation(pos, vel, tcol, icol, jcol, sigma_sq, sigma, Ns, nc,pos_trans[0], conf, L)        
@@ -40,10 +40,11 @@ Python functions signitures:
         returns None
     def spheres.update_collisions_table(pos, vel, sigma, tcol, icol, jcol, c_time, pos_trans)
         returns c_time
-        
+```      
 * original code at spheres_python folder
 
 in fortran, I've canceled the UI and the testing the main function
+```fortran
 
 Fortran subroutiens to be tested:
         call retrieve_collision_info(ctime,tcol,icol,jcol)
@@ -51,13 +52,12 @@ Fortran subroutiens to be tested:
         call compute_properties(vel,mom,kin)
         call write_properties(c,mom,kin,tcol,icol,jcol,delta_vel)
         call update_collisions_table(pos,vel,sigma,tcol,icol,jcol,ctime)
-
+```
 * original code at spheres_fortran/spheres_fortran_Homework6_copy folder 
         
-step 2 - time measurement
+## step 2 - time measurement
 
-I've tested the execution of the python implementation with the python script given in class
-
+The Python implementation was first tested using the provided script from the class and
 then modified for benchmarks:
 
 1. execute
