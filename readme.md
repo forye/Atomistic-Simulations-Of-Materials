@@ -1,6 +1,9 @@
-# Code in Different Language Project
+# Fortran vs Numpy for classical MD
+### Code in Different Language Project comparing Fortran implementation and NumPy implementation. 
 
 This project provides a Python alternative to the Fortran code, simulating the colliding spheres model with periodic boundary conditions. The model is described in [link_to_article](#link_to_article).
+
+The NumPy implementation achieves the same order of magnitude in speed as Fortran even though its interpreted and not compiled
 
 ## Introduction
 
